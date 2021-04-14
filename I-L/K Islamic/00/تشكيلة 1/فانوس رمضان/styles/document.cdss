@@ -1,0 +1,526 @@
+{
+  "version": 1700,
+  "style": {
+    "~artisticmedia~": {
+      "fill": {
+        "type": "1",
+        "primaryColor": "CMYK,USER,0,0,0,100,100,00000000-0000-0000-0000-000000000000",
+        "secondaryColor": "CMYK,USER,0,0,0,0,100,00000000-0000-0000-0000-000000000000"
+      },
+      "outline": {
+        "color": "CMYK,USER,0,0,0,100,100,00000000-0000-0000-0000-000000000000",
+        "width": "0"
+      }
+    },
+    "~artistic~": {
+      "character": {
+        "fill": {
+          "type": "1",
+          "primaryColor": "CMYK,USER,0,0,0,100,100,00000000-0000-0000-0000-000000000000",
+          "secondaryColor": "CMYK,USER,0,0,0,0,100,00000000-0000-0000-0000-000000000000"
+        },
+        "angle": "0",
+        "outline": {
+          "color": "CMYK,USER,0,0,0,100,100,00000000-0000-0000-0000-000000000000",
+          "width": "0"
+        },
+        "RTL": {
+          "italic": "0",
+          "underline": "0",
+          "charset": "178",
+          "size": "84667",
+          "technology": "4",
+          "version": "Version 6.98",
+          "weight": "64",
+          "font": "Arial",
+          "script": "0",
+          "effect": "0",
+          "strikeout": "0",
+          "overline": "0"
+        },
+        "farEast": {
+          "italic": "0",
+          "underline": "0",
+          "charset": "128",
+          "size": "84667",
+          "technology": "4",
+          "version": "Version 5.11",
+          "weight": "64",
+          "font": "MS Gothic",
+          "script": "0",
+          "effect": "0",
+          "strikeout": "0",
+          "overline": "0"
+        },
+        "latin": {
+          "italic": "0",
+          "underline": "0",
+          "charset": "0",
+          "size": "84667",
+          "technology": "4",
+          "version": "Version 6.98",
+          "weight": "64",
+          "font": "Arial",
+          "script": "0",
+          "effect": "0",
+          "strikeout": "0",
+          "overline": "0"
+        },
+        "v_shift": "0",
+        "h_shift": "0"
+      },
+      "paragraph": {
+        "maxInterWordSpacing": "3000000",
+        "beforeParaSpacing": "1000000",
+        "interLangSpacing": "0",
+        "thinAbsolute": "0",
+        "maxInterCharSpacing": "2000000",
+        "minInterWordSpacing": "600000",
+        "spacingMethod": "0",
+        "thinDistance": "-90909",
+        "thinThickness": "45455",
+        "thickAbsolute": "0",
+        "interLineSpacing": "1000000",
+        "thickDistance": "-90909",
+        "afterParaSpacing": "0",
+        "interCharSpacing": "0",
+        "interWordSpacing": "1000000",
+        "thickThickness": "90909",
+        "thinStrikeoutDistance": "333333",
+        "dblStrikeout1Thickness": "45455",
+        "dblUnderline2Thickness": "45455",
+        "thinOverlineDistance": "845455",
+        "dblUnderline1Distance": "-90909",
+        "thinStrikeoutAbsolute": "0",
+        "thickStrikeoutAbsolute": "0",
+        "thickOverlineThickness": "90909",
+        "thinOverlineThickness": "45455",
+        "dblOverline2Absolute": "0",
+        "dblStrikeout2Distance": "287878",
+        "dblStrikeout1Absolute": "0",
+        "dblOverline1Thickness": "45455",
+        "thickStrikeoutDistance": "356060",
+        "thinStrikeoutThickness": "45455",
+        "dblStrikeout1Distance": "378788",
+        "thickStrikeoutThickness": "90909",
+        "dblOverline2Thickness": "45455",
+        "dblStrikeout2Thickness": "45455",
+        "dblUnderline1Absolute": "0",
+        "dblOverline1Distance": "800000",
+        "dblOverline2Distance": "890910",
+        "dblOverline1Absolute": "0",
+        "thickOverlineDistance": "868182",
+        "dblStrikeout2Absolute": "0",
+        "thinOverlineAbsolute": "0",
+        "thickOverlineAbsolute": "0",
+        "dblUnderline2Distance": "-181819",
+        "dblUnderline2Absolute": "0",
+        "dblUnderline1Thickness": "45455"
+      },
+      "transparency": {
+      }
+    },
+    "~barcode~": {
+      "transparency": {
+      },
+      "barcode": {
+        "outline": {
+          "color": "CMYK,USER,0,0,0,100,100,00000000-0000-0000-0000-000000000000",
+          "width": "0"
+        },
+        "backgroundFill": {
+          "type": "1",
+          "primaryColor": "CMYK,USER,0,0,0,0,100,00000000-0000-0000-0000-000000000000",
+          "secondaryColor": "CMYK,USER,0,0,0,0,100,00000000-0000-0000-0000-000000000000"
+        },
+        "pixelFill": {
+          "type": "1",
+          "primaryColor": "CMYK,USER,0,0,0,100,100,00000000-0000-0000-0000-000000000000",
+          "secondaryColor": "CMYK,USER,0,0,0,0,100,00000000-0000-0000-0000-000000000000",
+          "winding": "1"
+        }
+      }
+    },
+    "~callout~": {
+      "fill": {
+        "type": "1",
+        "primaryColor": "CMYK,USER,0,0,0,0,100,00000000-0000-0000-0000-000000000000",
+        "secondaryColor": "CMYK,USER,0,0,0,0,100,00000000-0000-0000-0000-000000000000"
+      },
+      "outline": {
+        "color": "CMYK,USER,80,40,0,20,100,00000000-0000-0000-0000-000000000000",
+        "width": "762",
+        "leftArrow": "M-1333253,-357244 L0,0 L-1333253,357244 L-1333253,-357244 Z|666626"
+      },
+      "character": {
+        "fill": {
+          "type": "1",
+          "primaryColor": "CMYK,USER,80,40,0,20,100,00000000-0000-0000-0000-000000000000",
+          "secondaryColor": "CMYK,USER,0,0,0,0,100,00000000-0000-0000-0000-000000000000"
+        },
+        "angle": "0",
+        "outline": {
+          "color": "CMYK,USER,80,40,0,20,100,00000000-0000-0000-0000-000000000000",
+          "width": "0"
+        },
+        "RTL": {
+          "italic": "0",
+          "underline": "0",
+          "charset": "178",
+          "size": "42333",
+          "technology": "4",
+          "version": "Version 6.98",
+          "weight": "64",
+          "font": "Arial",
+          "script": "0",
+          "effect": "0",
+          "strikeout": "0",
+          "overline": "0"
+        },
+        "farEast": {
+          "italic": "0",
+          "underline": "0",
+          "charset": "128",
+          "size": "42333",
+          "technology": "4",
+          "version": "Version 5.11",
+          "weight": "64",
+          "font": "MS Gothic",
+          "script": "0",
+          "effect": "0",
+          "strikeout": "0",
+          "overline": "0"
+        },
+        "latin": {
+          "italic": "0",
+          "underline": "0",
+          "charset": "0",
+          "size": "42333",
+          "technology": "4",
+          "version": "Version 6.98",
+          "weight": "64",
+          "font": "Arial",
+          "script": "0",
+          "effect": "0",
+          "strikeout": "0",
+          "overline": "0"
+        },
+        "v_shift": "0",
+        "h_shift": "0"
+      },
+      "callout": {
+      }
+    },
+    "~dimension~": {
+      "fill": {
+        "primaryColor": "CMYK,USER,0,0,0,100,100,00000000-0000-0000-0000-000000000000",
+        "secondaryColor": "CMYK,USER,0,0,0,0,100,00000000-0000-0000-0000-000000000000"
+      },
+      "outline": {
+        "color": "CMYK,USER,80,40,0,20,100,00000000-0000-0000-0000-000000000000",
+        "width": "762",
+        "leftArrow": "M-1333253,-357244 L0,0 L-1333253,357244 L-1333253,-357244 Z|666626",
+        "rightArrow": "M-1333253,-357244 L0,0 L-1333253,357244 L-1333253,-357244 Z|666626"
+      },
+      "character": {
+        "fill": {
+          "type": "1",
+          "primaryColor": "CMYK,USER,80,40,0,20,100,00000000-0000-0000-0000-000000000000",
+          "secondaryColor": "CMYK,USER,0,0,0,0,100,00000000-0000-0000-0000-000000000000"
+        },
+        "angle": "0",
+        "outline": {
+          "color": "CMYK,USER,80,40,0,20,100,00000000-0000-0000-0000-000000000000",
+          "width": "0"
+        },
+        "RTL": {
+          "italic": "0",
+          "underline": "0",
+          "charset": "178",
+          "size": "42333",
+          "technology": "4",
+          "version": "Version 6.98",
+          "weight": "64",
+          "font": "Arial",
+          "script": "0",
+          "effect": "0",
+          "strikeout": "0",
+          "overline": "0"
+        },
+        "farEast": {
+          "italic": "0",
+          "underline": "0",
+          "charset": "128",
+          "size": "42333",
+          "technology": "4",
+          "version": "Version 5.11",
+          "weight": "64",
+          "font": "MS Gothic",
+          "script": "0",
+          "effect": "0",
+          "strikeout": "0",
+          "overline": "0"
+        },
+        "latin": {
+          "italic": "0",
+          "underline": "0",
+          "charset": "0",
+          "size": "42333",
+          "technology": "4",
+          "version": "Version 6.98",
+          "weight": "64",
+          "font": "Arial",
+          "script": "0",
+          "effect": "0",
+          "strikeout": "0",
+          "overline": "0"
+        },
+        "v_shift": "0",
+        "h_shift": "0"
+      },
+      "dimension": {
+        "textStyle": "0",
+        "useDefaultLabelGap": "1",
+        "showUnits": "1",
+        "includeCDReverseTerminated": "0",
+        "hideGapOnFreeExtension": "1",
+        "reverseTerminatedLength": "0",
+        "radialTextAboveLine": "0",
+        "useDefaultOverhang": "1",
+        "labelGap": "0",
+        "autoReverseTerminators": "1",
+        "horizontalText": "0",
+        "dynamicText": "1",
+        "showLeadingZero": "1",
+        "useDefaultAnchorGap": "1",
+        "angularUnits": "1",
+        "radialInsideOutside": "0",
+        "boxAroundText": "0",
+        "precision": "2",
+        "showExtLines": "1",
+        "dimetricSymbol": "6",
+        "textPlacement": "2",
+        "hideCDWhenReverseTerminated": "0",
+        "centerText": "1",
+        "prefix": "",
+        "anchorGap": "0",
+        "radialSymbol": "4",
+        "overhang": "0",
+        "reverseTerminators": "0",
+        "showInnerExtensionLines": "1",
+        "useDefaultReverseTerminatedLength": "1",
+        "suffix": "",
+        "units": "15"
+      }
+    },
+    "~graphic~": {
+      "fill": {
+        "primaryColor": "CMYK,USER,0,0,0,100,100,00000000-0000-0000-0000-000000000000",
+        "secondaryColor": "CMYK,USER,0,0,0,0,100,00000000-0000-0000-0000-000000000000"
+      },
+      "outline": {
+        "color": "CMYK255,USER,0,255,255,0,100,cccd19cb-4675-4a5e-8bda-d0bbbaab8af0",
+        "width": "762"
+      },
+      "transparency": {
+      }
+    },
+    "~paragraph~": {
+      "character": {
+        "fill": {
+          "type": "1",
+          "primaryColor": "CMYK,USER,0,0,0,100,100,00000000-0000-0000-0000-000000000000",
+          "secondaryColor": "CMYK,USER,0,0,0,0,100,00000000-0000-0000-0000-000000000000"
+        },
+        "angle": "0",
+        "outline": {
+          "color": "CMYK,USER,0,0,0,100,100,00000000-0000-0000-0000-000000000000",
+          "width": "0"
+        },
+        "RTL": {
+          "italic": "0",
+          "underline": "0",
+          "charset": "178",
+          "size": "42333",
+          "technology": "4",
+          "version": "Version 6.98",
+          "weight": "64",
+          "font": "Arial",
+          "script": "0",
+          "effect": "0",
+          "strikeout": "0",
+          "overline": "0"
+        },
+        "farEast": {
+          "italic": "0",
+          "underline": "0",
+          "charset": "128",
+          "size": "42333",
+          "technology": "4",
+          "version": "Version 5.11",
+          "weight": "64",
+          "font": "MS Gothic",
+          "script": "0",
+          "effect": "0",
+          "strikeout": "0",
+          "overline": "0"
+        },
+        "latin": {
+          "italic": "0",
+          "underline": "0",
+          "charset": "0",
+          "size": "42333",
+          "technology": "4",
+          "version": "Version 6.98",
+          "weight": "64",
+          "font": "Arial",
+          "script": "0",
+          "effect": "0",
+          "strikeout": "0",
+          "overline": "0"
+        },
+        "v_shift": "0",
+        "h_shift": "0"
+      },
+      "paragraph": {
+        "bulletOn": "0",
+        "bulletChar": "9f000000",
+        "bulletHanging": "1",
+        "bulletFirstCharIndent": "35263",
+        "bulletVShift": "0",
+        "restOfLinesIndent": "0",
+        "maxInterWordSpacing": "3000000",
+        "beforeParaSpacing": "1000000",
+        "bulletAngle": "0",
+        "interLangSpacing": "0",
+        "bulletFont": {
+          "underline": "0",
+          "charset": "2",
+          "size": "35983",
+          "technology": "4",
+          "version": "Version 5.01",
+          "weight": "64",
+          "font": "Wingdings",
+          "script": "0",
+          "effect": "0",
+          "strikeout": "0",
+          "overline": "0"
+        },
+        "bulletHShift": "0",
+        "thinAbsolute": "0",
+        "maxInterCharSpacing": "2000000",
+        "minInterWordSpacing": "600000",
+        "spacingMethod": "0",
+        "thinDistance": "-90909",
+        "firstLineIndent": "0",
+        "thinThickness": "45455",
+        "thickAbsolute": "0",
+        "bulletFill": {
+          "type": "0"
+        },
+        "leftMargin": "0",
+        "bulletOutline": {
+          "width": "0"
+        },
+        "interLineSpacing": "1000000",
+        "thickDistance": "-90909",
+        "afterParaSpacing": "0",
+        "interCharSpacing": "0",
+        "interWordSpacing": "1000000",
+        "thickThickness": "90909",
+        "thinStrikeoutDistance": "333333",
+        "autoHyphenate": "0",
+        "dblStrikeout1Thickness": "45455",
+        "dblUnderline2Thickness": "45455",
+        "thinOverlineDistance": "845455",
+        "hyphenateHotZone": "127000",
+        "dropCapOn": "0",
+        "dblUnderline1Distance": "-90909",
+        "thinStrikeoutAbsolute": "0",
+        "thickStrikeoutAbsolute": "0",
+        "tabLeaderSpacing": "1",
+        "tabLeaderChar": "2e000000",
+        "thickOverlineThickness": "90909",
+        "spacingFromText": "0",
+        "thinOverlineThickness": "45455",
+        "dblOverline2Absolute": "0",
+        "dblStrikeout2Distance": "287878",
+        "hyphenateMinCharsBefore": "3",
+        "linesToDrop": "3",
+        "dblStrikeout1Absolute": "0",
+        "dblOverline1Thickness": "45455",
+        "tabs": "0,1,127000|0,1,254000|0,1,381000|0,1,508000|0,1,635000|0,1,762000|0,1,889000|0,1,1016000|0,1,1143000|0,1,1270000|0,1,1397000|0,1,1524000",
+        "thickStrikeoutDistance": "356060",
+        "thinStrikeoutThickness": "45455",
+        "dblStrikeout1Distance": "378788",
+        "thickStrikeoutThickness": "90909",
+        "breakAllCapWords": "0",
+        "dblOverline2Thickness": "45455",
+        "dblStrikeout2Thickness": "45455",
+        "hangingIndent": "0",
+        "dblUnderline1Absolute": "0",
+        "hyphenateMinCharsAfter": "2",
+        "dblOverline1Distance": "800000",
+        "dblOverline2Distance": "890910",
+        "hyphenateMinWordLength": "6",
+        "dblOverline1Absolute": "0",
+        "thickOverlineDistance": "868182",
+        "dblStrikeout2Absolute": "0",
+        "thinOverlineAbsolute": "0",
+        "thickOverlineAbsolute": "0",
+        "dblUnderline2Distance": "-181819",
+        "breakCapitalizedWords": "0",
+        "dblUnderline2Absolute": "0",
+        "dblUnderline1Thickness": "45455"
+      },
+      "frame": {
+      }
+    },
+    "~qrcode~": {
+      "transparency": {
+      },
+      "qrcode": {
+        "outline": {
+          "color": "CMYK,USER,0,0,0,100,100,00000000-0000-0000-0000-000000000000",
+          "width": "0"
+        },
+        "outerMarkerFill": {
+          "type": "1",
+          "primaryColor": "CMYK,USER,0,0,0,100,100,00000000-0000-0000-0000-000000000000",
+          "secondaryColor": "CMYK,USER,0,0,0,0,100,00000000-0000-0000-0000-000000000000",
+          "winding": "1"
+        },
+        "backgroundFill": {
+          "type": "1",
+          "primaryColor": "CMYK,USER,0,0,0,0,100,00000000-0000-0000-0000-000000000000",
+          "secondaryColor": "CMYK,USER,0,0,0,0,100,00000000-0000-0000-0000-000000000000"
+        },
+        "pixelFill": {
+          "type": "1",
+          "primaryColor": "CMYK,USER,0,0,0,100,100,00000000-0000-0000-0000-000000000000",
+          "secondaryColor": "CMYK,USER,0,0,0,0,100,00000000-0000-0000-0000-000000000000",
+          "winding": "1"
+        },
+        "InnerMarkerFill": {
+          "type": "1",
+          "primaryColor": "CMYK,USER,0,0,0,100,100,00000000-0000-0000-0000-000000000000",
+          "secondaryColor": "CMYK,USER,0,0,0,0,100,00000000-0000-0000-0000-000000000000",
+          "winding": "1"
+        }
+      }
+    }
+  },
+  "color styles": {
+    "palette_xml": {
+      "tag": "palette",
+      "attributes": {
+        "guid": "0174ccd4-d385-493a-b041-01f264f0f157",
+        "name": "Color Styles Palette"
+      }
+    },
+    "ruled-harmonies": [
+    ]
+  },
+  "fom data": {
+  }
+}
