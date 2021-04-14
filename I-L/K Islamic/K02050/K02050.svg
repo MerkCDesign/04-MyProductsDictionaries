@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="293.96567mm"
+   height="391.05136mm"
+   version="1.1"
+   id="svg7932"
+   sodipodi:docname="lantern_snowflake inked v3.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata7936">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="3440"
+     inkscape:window-height="1377"
+     id="namedview7934"
+     showgrid="false"
+     inkscape:zoom="0.65503193"
+     inkscape:cx="177.2149"
+     inkscape:cy="644.09099"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g7930"
+     showguides="false"
+     inkscape:document-units="mm"
+     units="mm">
+    <sodipodi:guide
+       position="-10.282895,-15.26639"
+       orientation="0,1018.9742"
+       id="guide9087"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1008.6913,-15.26639"
+       orientation="-1284.7622,0"
+       id="guide9089"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-21.918131,503.95602"
+       orientation="0,-1018.9742"
+       id="guide9091"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="242.78349,1364.9635"
+       orientation="1284.7622,0"
+       id="guide9093"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <desc
+     id="desc4549">C:\Users\Neilc\Downloads\lantern_snowflake.dxf - scale = 1.000000, origin = (0.000000, 0.000000), method = manual</desc>
+  <defs
+     id="defs4564">
+    <marker
+       id="DistanceX"
+       orient="auto"
+       refX="0"
+       refY="0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         style="stroke:#000000;stroke-width:0.5"
+         id="path4551"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <pattern
+       height="8"
+       id="Hatch"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         id="path4554" />
+      <path
+         d="M6 2 l-4,4"
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         id="path4556" />
+      <path
+         d="M4 0 l-4,4"
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         id="path4558" />
+    </pattern>
+    <symbol
+       id="*Model_Space" />
+    <symbol
+       id="*Paper_Space" />
+    <symbol
+       id="*Paper_Space0" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="0"
+     id="g4708"
+     transform="translate(609.35238,-381.79693)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="holes"
+     id="g7930"
+     transform="translate(609.35238,-381.79693)">
+    <g
+       id="g8301"
+       transform="rotate(-90,25.491224,1211.8711)"
+       style="stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4570"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -622.23499,1609.2367 h 107.0641" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4572"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -586.88856,1132.083 h 28.91842" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4574"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -586.88856,1132.083 v 14.4592" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4576"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -557.97014,1132.083 v 14.4592" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4578"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -557.97014,1146.5422 h 143.43528" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4580"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -622.23499,1146.5422 h 35.34643" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4582"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -385.61644,1132.083 h -28.91842" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4584"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -414.53486,1132.083 v 14.4592" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4586"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -385.61644,1132.083 v 14.4592" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4588"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -385.61644,1146.5422 h 55.56622" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4590"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -515.17089,1609.2367 v 14.4592" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4592"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -457.33411,1609.2367 v 14.4592" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4594"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -515.17089,1623.6959 h 57.83678" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4596"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M -365.39668,1609.2367 V 1146.5422" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4598"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M -622.23499,1609.2367 V 1146.5422" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4600"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -457.33411,1609.2367 h 199.00153" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4602"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -330.05022,1132.083 h 28.91839" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4604"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -330.05022,1132.083 v 14.4592" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4606"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -301.13183,1132.083 v 14.4592" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4608"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -301.13183,1146.5422 h 143.43531" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4610"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -128.77813,1132.083 h -28.91839" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4612"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -157.69652,1132.083 v 14.4592" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4614"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -128.77813,1132.083 v 14.4592" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4616"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -128.77813,1146.5422 h 55.566222" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4618"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -258.33258,1609.2367 v 14.4592" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4620"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -200.49577,1609.2367 v 14.4592" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4622"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -258.33258,1623.6959 h 57.83681" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4624"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M -108.55834,1609.2367 V 1146.5422" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4626"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M -200.49577,1609.2367 H -1.4942723" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4628"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -73.211908,1132.083 h 28.918387" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4630"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -73.211908,1132.083 v 14.4592" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4632"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -44.293521,1132.083 v 14.4592" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4634"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M -44.293521,1146.5422 H 99.141789" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4636"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 128.06018,1132.083 H 99.141789" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4638"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 99.141789,1132.083 v 14.4592" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4640"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 128.06018,1132.083 v 14.4592" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4642"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 128.06018,1146.5422 H 183.6264" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4644"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -1.4942723,1609.2367 v 14.4592" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4646"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 56.342541,1609.2367 v 14.4592" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4648"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M -1.4942723,1623.6959 H 56.342541" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4650"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 148.27997,1609.2367 V 1146.5422" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4652"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 56.342541,1609.2367 H 255.34404" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4654"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 183.6264,1132.083 h 28.91843" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4656"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 183.6264,1132.083 v 14.4592" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4658"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 212.54483,1132.083 v 14.4592" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4660"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 212.54483,1146.5422 H 355.9801" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4662"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 384.89852,1132.083 H 355.9801" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4664"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 355.9801,1132.083 v 14.4592" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4666"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 384.89852,1132.083 v 14.4592" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4668"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 384.89852,1146.5422 h 55.56623" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4670"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 255.34404,1609.2367 v 14.4592" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4672"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 313.18085,1609.2367 v 14.4592" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4674"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 255.34404,1623.6959 h 57.83681" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4676"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 405.11828,1609.2367 V 1146.5422" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4678"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 313.18085,1609.2367 H 512.18238" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4680"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 440.46475,1132.083 h 28.91838" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4682"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 440.46475,1132.083 v 14.4592" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4684"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 469.38313,1132.083 v 14.4592" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4686"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 469.38313,1146.5422 H 612.8184" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4688"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 641.73683,1132.083 H 612.8184" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4690"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 612.8184,1132.083 v 14.4592" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4692"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 641.73683,1132.083 v 14.4592" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4694"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 641.73683,1146.5422 h 20.21975" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4696"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 512.18238,1609.2367 v 14.4592" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4698"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 570.01919,1609.2367 v 14.4592" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4700"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 512.18238,1623.6959 h 57.83681" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4702"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 661.95658,1609.2367 V 1146.5422" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4704"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 570.01919,1609.2367 h 91.93739" />
+      <path
+         d="M -62.222901,1551.3999 H 55.411822 m 3.177659,0 H 87.04133 m 5.722227,0 h 3.319594 m 10.378989,0 h 3.31963 m 5.72219,0 h 1.56725 M 89.402306,1175.4606 h 27.668904 m -37.913878,0 -8.073349,1.9317 m -133.306884,-1.9317 H 79.157332 m 10.244974,0 10.690144,12.6756 m 16.97876,81.3571 v 54.112 m 0,-148.1447 v 70.9476 m 0,103.6286 v 126.9341 m 0,-126.9341 -16.05844,2.8729 m 16.05844,-106.5015 -3.80008,5.1963 m 3.80008,17.8888 -0.84911,-0.5829 m 0.84911,54.6949 -5.04014,0.2471 m 5.04014,155.6544 v 21.0151 m 0,32.7361 v 18.1419 m -28.879051,-2.1099 4.571398,2.1099 m 1.246432,-6.9167 2.073162,6.9167 m 12.569389,-83.4327 8.41867,9.0037 m 0,2.5359 -2.71808,4.9831 m 1.15083,66.91 -1.15083,-2.1099 m 2.71808,-48.7681 -5.93639,-0.7137 m 5.93639,33.4498 -5.93639,0.7138 m 3.21831,15.3182 -4.57136,2.1099 m -1.24647,-6.9167 -2.07316,6.9167 m -19.42081,0 1.150829,-2.1099 m -32.780337,2.1099 -1.231284,-2.6738 m 8.413717,-0.9836 -4.004774,3.6574 M 109.62886,1516.89 a 8.3562162,8.3562162 0 1 0 -16.712431,0 8.3562162,8.3562162 0 1 0 16.712431,0 z m -3.74799,24.0906 5.25395,-7.0088 m -2.59952,10.5114 -2.65443,-3.5026 m -9.21645,0 -5.25395,-7.0088 m 2.599519,10.5114 2.654431,-3.5026 m -42.483882,7.7455 -6.369499,-0.97 m 34.902653,-14.83 8.696778,1.0457 m -10.402946,3.0044 -8.832956,2.0905 m 8.832956,-2.0905 1.706168,-4.0501 m -2.960059,11.4919 -7.579065,-5.3513 m -9.580313,8.6758 13.252641,3.0784 m 0,0 3.906737,-6.4029 m -29.597925,-2.6631 -2.344669,6.0012 m 30.294429,-22.8117 3.442827,-8.0544 m -26.3339,18.0702 -7.392883,3.4948 m 25.923356,-14.058 -6.226829,6.6043 m 6.226829,-6.6043 4.3606,0.5474 m -11.432321,-3.1824 0.844892,9.2393 m -12.303644,3.9589 3.960335,-13.0163 m -11.353218,16.5111 2.334196,3.2999 m 9.019022,-19.811 7.498417,-0.1819 m -16.517439,-29.7369 -2.344669,-6.0012 m 30.294429,22.8116 3.442827,8.0545 m -26.3339,-18.0702 -7.392883,-3.4948 m 25.923356,14.058 -6.226829,-6.6044 m 6.226829,6.6044 4.3606,-0.5475 m -11.432321,3.1825 0.844892,-9.2394 m -12.303644,-3.9588 3.960335,13.0163 m -11.353218,-16.5111 2.334196,-3.2999 m 9.019022,19.811 7.498417,0.1819 m -12.492609,-26.9642 -6.369499,0.9701 m 34.902653,14.83 8.696778,-1.0457 m -28.816215,-13.7708 -6.723005,-4.655 m 25.136274,15.4213 -8.832956,-2.0904 m 8.832956,2.0904 1.706168,4.0502 m -2.960059,-11.492 -7.579065,5.3514 m -9.580313,-8.6759 13.252641,-3.0783 m -19.975646,-1.5767 -1.690712,3.6714 m 21.666358,-2.0947 3.906737,6.4028 m 17.494143,-29.173 4.024874,-5.0311 m -4.60823,37.6416 -5.25395,7.0088 m 2.482315,-31.841 -0.669878,-8.1498 m 0.787082,29.4794 2.606128,-8.6949 m -2.606128,8.6949 2.654431,3.5026 m -8.472261,-8.3095 8.423958,-3.888 m -2.723332,-12.6347 -9.292306,9.938 m 8.622428,-18.0878 4.024869,0.3715 m -12.647297,17.7163 3.59168,6.5847 m 17.105351,-24.301 -4.02486,-5.0311 m 4.60822,37.6416 5.25395,7.0088 m -2.59952,-10.5114 -2.60613,-8.6949 m 2.72337,-12.6347 0.66984,-8.1498 m -0.78708,29.4794 -2.65443,3.5026 m 8.47226,-8.3095 -8.42396,-3.888 m 3.39321,-20.7845 -4.02487,0.3715 m -167.520411,41.1672 v 50.0438 m 0,-375.9393 v 211.0925 m 0,40.9422 19.302446,-2.0351 m -19.302446,-30.5319 v 32.567 m 0,18.2562 V 1472.4 m 0,16.2596 4.671252,1.1403 m -4.671252,-8.4598 v 7.3195 m 0,-7.3195 4.680565,0.1371 m -4.680565,19.8789 10.706797,14.4141 m -10.706797,-43.3702 2.921455,0.3071 m 16.048738,-88.3506 -18.970193,2.1966 m 0,59.1984 11.090909,8.5909 m 44.8049401,-22.5463 -3.4799631,12.144 m 3.4799631,-12.144 -12.2442111,3.1091 m 13.3068955,-12.1447 3.9067758,4.215 m 5.5520045,-5.3857 -9.4587803,1.1707 m 25.6360835,-16.8635 -6.847243,-1.6715 m -10.7878314,26.7831 -4.0942333,-4.0331 m 14.8820647,-22.75 -0.0093,8.3227 m -9.3207602,9.0416 -1.4577712,9.4188 m 17.6350744,-25.1116 1.462601,6.8949 m 0,0 -8.319157,-0.2437 m -8.7125826,-2.0249 -18.6045904,7.6073 m 16.7812944,-32.102 1.823296,24.4947 m 2.686389,-32.268 -4.509685,7.7733 M 21.628736,1397.291 7.4889664,1378.2553 m 16.3188526,9.8153 -2.179083,9.2204 m 14.974383,-7.1391 -12.7953,-2.0813 m -8.533549,33.2477 -8.1694158,18.3648 m 32.5972848,-15.7976 -24.427869,-2.5672 m 32.334782,-1.704 -7.906913,4.2712 m -10.690103,-18.9832 18.597016,14.712 m -9.314641,-16.6098 -9.282375,1.8978 m 7.591083,-14.7504 1.691292,12.8526 m -39.28670979,49.9848 -12.25704121,3.0583 m 12.25704121,-3.0583 -8.81471621,-9.0492 m 17.1710483,5.4518 -1.6968559,5.4908 m 7.4401436,2.1153 -5.7432877,-7.6061 m 27.4222437,13.7697 -1.976014,-6.7656 m -28.5887615,4.049 1.4456759,-5.5623 m 27.1430856,1.5133 -7.212342,4.1532 m -12.4906,-3.5512 -8.8858195,3.447 m 30.5647755,2.7166 -5.239846,4.7141 m 0,0 -3.94851,-7.3265 m -2.60265,-8.5577 -15.8904168,-12.3084 m 36.1917468,-1.518 -20.30133,13.8264 m 29.288124,-13.8075 -8.986794,-0.019 m -0.428744,21.7822 9.415538,-21.7632 m -0.340909,19.0402 -9.074629,2.723 m 13.669831,9.3986 -4.595202,-12.1216 m -33.060151,9.2335 -19.9890173,2.1075 m 29.9796803,20.3313 -9.990663,-22.4388 m 17.64315,27.1507 -7.652487,-4.7119 m 11.094928,-18.7495 -3.442441,23.4614 m 9.727157,-16.3715 -6.284716,-7.0899 m 16.569762,-0.8012 -10.285046,7.8911 m -62.931477,-9.0309 -8.777078,-9.0858 m 8.777078,9.0858 3.429495,-12.1584 m 3.8641528,17.5965 -5.6036318,1.2758 m 1.888139,7.5011 3.7154928,-8.7769 m 1.78616,30.6332 4.8712295,-5.0941 m -17.8008913,-22.7341 5.53987,-1.5292 m 12.2610213,24.2633 -7.2030297,-4.1695 m -3.1698526,-12.5927 -7.428009,-5.9719 m 12.9296618,27.8282 -6.7024478,-2.1808 m 0,0 4.3706476,-7.0828 m 6.1099331,-6.5328 2.714212,-19.9157 m 19.4104143,30.584 -22.1246263,-10.6683 m 26.6017353,18.4605 -4.477109,-7.7922 m -19.07816116,10.5197 23.55527016,-2.7275 m -16.659762,9.2249 -6.89550816,-6.4974 m -1.30455144,16.5378 8.2000596,-10.0404 m -24.526602,-24.0142 -11.819602,-16.2573 m -2.617565,36.1289 14.437167,-19.8716 m -14.691593,28.8548 0.254426,-8.9832 m 21.784992,0.2337 -22.039418,8.7495 m 19.041759,0.2382 2.997659,-8.9877 m 8.9787174,13.9493 -11.9763764,-4.9616 m -23.644767,-59.0157 3.479963,-12.1441 m -3.479963,12.1441 12.244211,-3.1092 m -13.306896,12.1447 -3.906775,-4.215 m -5.552005,5.3858 9.45878,-1.1708 m -8.00097,-8.2481 4.094195,4.0331 m -14.882065,22.75 0.0093,-8.3227 m 9.32076,-9.0415 1.45781,-9.4189 m -2.065974,20.4853 18.604628,-7.6073 m -16.781294,32.102 -1.823334,-24.4947 m -2.686351,32.2681 4.509685,-7.7734 m -12.295027,-35.2897 8.169454,-18.3647 m 8.097115,-13.3063 12.257041,-3.0583 m -12.257041,3.0583 8.814716,9.0492 m -17.171048,-5.4517 1.696855,-5.4909 m -7.440143,-2.1153 5.743288,7.6062 m 3.142531,-11.0532 -1.445676,5.5623 m -7.440143,-2.1153 8.885819,-3.447 m 20.900375,-7.761 -3.429533,12.1584 m 3.429533,-12.1584 8.77704,9.0858 m -16.070726,-14.5238 5.603632,-1.2759 m -1.888139,-7.5011 -3.715493,8.777 m -1.78616,-30.6333 -4.871191,5.0941 m 0,0 7.202991,4.1695 m 10.597901,18.5646 -5.539909,1.5292 m -1.888139,-7.5011 7.428048,5.9719 m -12.929701,-27.8282 6.702447,2.1808 m 0,0 -4.370647,7.0828 m -6.109933,6.5328 -2.714173,19.9157 m -19.410453,-30.584 22.124626,10.6683 m -9.941973,-27.6854 6.895547,6.4974 m 1.304551,-16.5378 -8.200098,10.0404 m 24.526641,24.0142 11.819601,16.2573 m 2.617566,-36.1289 -14.437167,19.8716 m 14.691593,-28.8548 -0.254426,8.9832 m -21.785031,-0.2337 22.039457,-8.7495 m -19.041798,-0.2381 -2.997659,8.9876 m -8.978679,-13.9493 11.976338,4.9617 m 100.274014,-104.9444 -5.835297,-6.5706 m 41.245562,0.5325 -8.173701,-5.7923 m 0,0 -9.72024,8.8436 m 9.750458,-25.2476 -18.769557,16.9882 m 34.47171,-4.9853 -15.702153,-12.0029 m -27.266782,28.2344 -3.328018,8.1332 m 38.738283,-14.1713 -5.792284,8.1738 m 0,0 -12.101657,-5.1225 m -5.884992,10.7342 -3.743933,10.4604 m 27.195406,-0.605 -23.451473,-9.8554 m 34.288573,-6.673 -10.8371,16.5284 m -41.18358,-1.1308 2.772757,-8.3388 m 20.161519,35.986 0.929405,-9.9748 m 0,0 -12.518809,-3.9962 m 26.740268,-4.1796 -24.096966,-7.7608 m 21.553211,27.3607 2.543755,-19.5999 m 10.58558,21.0211 -13.129335,-1.4212 m 12.288265,10.4479 0.84107,-9.0267 m -48.67072,-30.5177 -8.70752,1.1845 m 31.641796,26.4627 -9.974781,-0.9294 m 0,0 -1.614623,-13.0416 m -12.238608,0.2705 -10.930927,1.9879 m 14.121685,23.2494 -3.190758,-25.2373 m 22.923223,26.3584 -19.732465,-1.1211 m 18.703671,14.2869 1.028794,-13.1658 m 7.997918,14.0069 -9.026712,-0.8411 m 6.757166,10.3285 2.269546,-9.4874 m 6.783945,14.2897 -9.053491,-4.8023 m -45.073393,-60.8468 8.608014,-1.7681 m -21.084045,35.4534 9.103109,-4.1825 m 0,0 -2.79857,-12.8397 m 16.989812,21.0679 -5.327449,-24.749 m -12.918456,32.346 18.245905,-7.597 m -12.912079,19.6779 -5.333826,-12.0809 m -2.904065,15.8659 8.237891,-3.785 m -2.952485,11.9842 -5.285406,-8.1992 m -1.664976,15.7304 6.950382,-7.5312 m 5.046244,-69.3931 -5.379541,-6.9487 m -24.164787,86.7184 17.547702,-2.8454 m -0.479405,-43.239 -4.182533,-9.1031 m 0,0 10.487072,-7.9191 m -6.353578,-10.4637 -7.186992,-8.4725 m -13.073763,23.8544 20.260755,-15.3819 m -11.36539,33.0312 -8.895365,-17.6493 m -3.020999,23.3413 11.916364,-5.692 m -8.131391,13.9299 -3.784973,-8.2379 m -5.5661477,11.0161 9.3511207,-2.7782 m -8.9832387,13.0199 -0.367882,-10.2417 m 11.8286437,23.831 -11.4607617,-13.5893 m 29.7902517,-79.6998 5.835297,6.5707 m -41.24556495,-0.5326 8.17370495,5.7923 m 0,0 9.720239,-8.8435 m -9.7504579,25.2475 18.7695579,-16.9881 m -34.4717058,4.9852 15.7021479,12.0029 m -23.4976531,-1.3432 7.7955052,-10.6597 m -15.1923302,5.418 7.396825,5.2417 m -11.854805,3.4352 4.45798,-8.6769 m -14.455406,6.4233 9.997426,2.2536 m 62.61924,-30.3264 3.328019,-8.1331 m -87.182747,22.4318 11.238062,13.7741 m 37.20639805,-22.0347 5.79228705,-8.1737 m 0,0 12.1016569,5.1225 m 5.884992,-10.7342 3.743934,-10.4604 m -27.19540857,0.605 23.45147457,9.8554 m -34.288576,6.6729 10.83710143,-16.5283 m -21.72467043,9.0544 10.887569,7.4739 m -16.129308,-0.077 5.241739,-7.3968 m -12.323314,0.6877 7.081575,6.7091 m -15.767223,-1.2697 8.685648,-5.4394 m -14.723937,22.1593 6.038289,-16.7199 m 83.917214,-14.0508 -2.772756,8.3389 m -20.16152,-35.9861 -0.929404,9.9748 m 0,0 12.518809,3.9962 m -26.7402705,4.1797 24.0969685,7.7608 m -21.5532112,-27.3607 -2.5437573,19.5999 m -10.5855736,-21.0212 13.1293309,1.4213 m -12.2882645,-10.448 -0.8410664,9.0267 m -8.9023199,-8.5489 9.7433863,-0.4778 m -12.7904313,-9.3071 3.047045,9.7849 m 57.573035,39.0666 8.70752,-1.1845 m -63.017959,-64.2865 -6.309641,16.6195 m 37.685804,21.2043 9.974781,0.9295 m 0,0 1.614624,13.0415 m 9.04785,-25.5078 3.175417,25.116 m -22.907883,-26.237 19.732466,1.121 m -18.703671,-14.2869 -1.028795,13.1659 m -7.997917,-14.007 9.026712,0.8411 m -6.757166,-10.3285 -2.269546,9.4874 m -6.783946,-14.2896 9.053492,4.8022 m -26.552581,-1.6716 17.499089,-3.1306 m 54.126885,65.649 -8.608015,1.7681 m 21.084046,-35.4533 -9.103109,4.1825 m 0,0 2.798569,12.8397 m -11.636626,3.8006 -10.972004,1.747 m 5.618818,-26.6155 5.353186,24.8685 m 12.892719,-32.4655 -18.245905,7.597 m 12.91208,-19.678 5.333825,12.081 m 2.904066,-15.866 -8.237891,3.785 m 2.952485,-11.9841 5.285406,8.1991 m 1.664975,-15.7304 -6.950381,7.5313 m -5.046244,69.393 5.37954,6.9488 m 7.096491,-40.634 4.182494,9.1031 m 0,0 -10.487034,7.9191 m 6.353578,10.4636 7.186993,8.4726 m 13.073762,-23.8544 -20.260755,15.3818 m 11.365352,-33.0312 8.895403,17.6494 m 3.020999,-23.3414 -11.916402,5.692 m 8.13143,-13.9299 3.784972,8.2379 m 5.566149,-11.0161 -9.351121,2.7782 m 8.983241,-13.0199 0.36788,10.2417"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path7810"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -455.08713,1551.3999 h 28.45181 m 5.72222,0 h 3.31964 m 10.37895,0 h 3.31963 m 5.72223,0 h 1.5672 m -28.87901,-2.1099 4.57136,2.1099 m 22.74045,0 -1.15083,-2.1099 m 0,0 -4.5714,2.1099 m -22.74044,0 1.15086,-2.1099 m -25.59794,-1.5475 -4.00473,3.6574 m 4.00473,-3.6574 13.25268,3.0784 m -138.06983,-375.3603 h 141.38027 m 10.24493,0 h 27.6689 m -27.6689,0 10.69018,12.6756 m -20.93511,-12.6756 -8.07335,1.9317 m 45.98718,92.101 v 54.112 m 0,-148.1447 v 70.9476 m 0,103.6286 v 126.9341 m 0,-126.9341 -16.05839,2.8729 m 16.05839,-106.5015 -3.80008,5.1963 m 3.80008,17.8888 -0.8491,-0.5829 m 0.8491,54.6949 -5.04013,0.2471 m 5.04013,155.6544 v 21.0151 m -179.2941,50.878 h 117.63472 m 61.65938,-18.1419 v 18.1419 m -23.06121,-6.9167 2.0732,6.9167 m 12.56935,-83.4327 8.41866,9.0037 m 0,2.5359 -2.71803,4.9831 m 2.71803,16.032 -5.93634,-0.7137 m 5.93634,33.4498 -5.93634,0.7138 m -2.59952,10.5114 -2.0732,6.9167 m -51.05032,0 -1.23125,-2.6738 m 55.44833,-31.8361 a 8.35622,8.35622 0 1 0 -16.71244,0 8.35622,8.35622 0 1 0 16.71244,0 z m -3.74803,24.0906 5.25399,-7.0088 m -2.59952,10.5114 -2.65447,-3.5026 m -9.21641,0 -5.25395,-7.0088 m 2.59948,10.5114 2.65447,-3.5026 m -42.48389,7.7455 -6.36953,-0.97 m 34.90265,-14.83 8.69682,1.0457 m -10.40295,3.0044 -8.833,2.0905 m 8.833,-2.0905 1.70613,-4.0501 m -2.96002,11.4919 -7.57911,-5.3513 m 3.67237,11.7542 3.90674,-6.4029 m -29.59797,-2.6631 -2.34466,6.0012 m 30.29442,-22.8117 3.44287,-8.0544 m -26.33394,18.0702 -7.39288,3.4948 m 25.92339,-14.058 -6.22686,6.6043 m 6.22686,-6.6043 4.36056,0.5474 m -11.43228,-3.1824 0.84486,9.2393 m -12.30365,3.9589 3.96034,-13.0163 m -11.35322,16.5111 2.33419,3.2999 m 9.01903,-19.811 7.49845,-0.1819 m -16.51748,-29.7369 -2.34466,-6.0012 m 30.29442,22.8116 3.44287,8.0545 m -26.33394,-18.0702 -7.39288,-3.4948 m 25.92339,14.058 -6.22686,-6.6044 m 6.22686,6.6044 4.36056,-0.5475 m -11.43228,3.1825 0.84486,-9.2394 m -12.30365,-3.9588 3.96034,13.0163 m -11.35322,-16.5111 2.33419,-3.2999 m 9.01903,19.811 7.49845,0.1819 m -12.49261,-26.9642 -6.36953,0.9701 m 34.90265,14.83 8.69682,-1.0457 m -28.81626,-13.7708 -6.723,-4.655 m 25.13631,15.4213 -8.833,-2.0904 m 8.833,2.0904 1.70613,4.0502 m -2.96002,-11.492 -7.57911,5.3514 m -9.58031,-8.6759 13.25268,-3.0783 m -19.97568,-1.5767 -1.69068,3.6714 m 21.66636,-2.0947 3.90674,6.4028 m 17.49414,-29.173 4.02487,-5.0311 m -4.60822,37.6416 -5.25395,7.0088 m 2.48227,-31.841 -0.66984,-8.1498 m 0.78705,29.4794 2.60616,-8.6949 m -2.60616,8.6949 2.65447,3.5026 m -8.47227,-8.3095 8.42396,-3.888 m -2.72337,-12.6347 -9.2923,9.938 m 8.62246,-18.0878 4.02487,0.3715 m -12.64733,17.7163 3.59171,6.5847 m 17.10532,-24.301 -4.02483,-5.0311 m 4.60819,37.6416 5.25399,7.0088 m -2.59952,-10.5114 -2.60617,-8.6949 m 2.72337,-12.6347 0.66984,-8.1498 m -0.78704,29.4794 -2.65447,3.5026 m 8.4723,-8.3095 -8.424,-3.888 m 3.39321,-20.7845 -4.02487,0.3715 m -167.52041,41.1672 v 50.0438 m 0,-375.9393 v 211.0925 m 0,40.9422 19.30244,-2.0351 m -19.30244,-30.5319 v 32.567 m 0,18.2562 V 1472.4 m 0,16.2596 4.67125,1.1403 m -4.67125,-8.4598 v 7.3195 m 0,-7.3195 4.6806,0.1371 m -4.6806,19.8789 10.70679,14.4141 m -10.70679,-43.3702 2.92149,0.3071 m 16.0487,-88.3506 -18.97019,2.1966 m 0,59.1984 11.0909,8.5909 m 44.80498,-22.5463 -3.47996,12.144 m 3.47996,-12.144 -12.24421,3.1091 m 13.3069,-12.1447 3.90673,4.215 m 5.55201,-5.3857 -9.45874,1.1707 m 25.63604,-16.8635 -6.8472,-1.6715 m -10.78787,26.7831 -4.09424,-4.0331 m 14.88211,-22.75 -0.009,8.3227 m -9.3211,9.0416 -1.45777,9.4188 m 17.63507,-25.1116 1.46264,6.8949 m 0,0 -8.31915,-0.2437 m -8.71263,-2.0249 -18.60459,7.6073 m 16.7813,-32.102 1.82329,24.4947 m 2.68639,-32.268 -4.50968,7.7733 m 18.64945,11.2624 -14.13977,-19.0357 m 16.31889,9.8153 -2.17912,9.2204 m 14.97439,-7.1391 -12.79527,-2.0813 m -8.53358,33.2477 -8.16942,18.3648 m 32.59732,-15.7976 -24.4279,-2.5672 m 32.33478,-1.704 -7.90688,4.2712 m -10.6901,-18.9832 18.59698,14.712 m -9.31464,-16.6098 -9.28234,1.8978 m 7.59105,-14.7504 1.69129,12.8526 m -39.28671,49.9848 -12.257,3.0583 m 12.257,-3.0583 -8.81468,-9.0492 m 17.17105,5.4518 -1.6969,5.4908 m 7.44019,2.1153 -5.74329,-7.6061 m 27.4222,13.7697 -1.97601,-6.7656 m -28.58872,4.049 1.44563,-5.5623 m 27.14309,1.5133 -7.21234,4.1532 m -12.49056,-3.5512 -8.88582,3.447 m 30.56473,2.7166 -5.23984,4.7141 m 0,0 -3.94851,-7.3265 m -2.60265,-8.5577 -15.89042,-12.3084 m 36.19175,-1.518 -20.30133,13.8264 m 29.28812,-13.8075 -8.98679,-0.019 m -0.42871,21.7822 9.4155,-21.7632 m -0.34087,19.0402 -9.07463,2.723 m 13.66983,9.3986 -4.5952,-12.1216 m -33.06019,9.2335 -19.98902,2.1075 m 29.97972,20.3313 -9.9907,-22.4388 m 17.64319,27.1507 -7.65249,-4.7119 m 11.09493,-18.7495 -3.44244,23.4614 m 9.72712,-16.3715 -6.28468,-7.0899 m 16.56976,-0.8012 -10.28508,7.8911 m -62.93148,-9.0309 -8.77704,-9.0858 m 8.77704,9.0858 3.42954,-12.1584 m 3.86415,17.5965 -5.60363,1.2758 m 1.88814,7.5011 3.71549,-8.7769 m 1.78612,30.6332 4.87123,-5.0941 m -17.80089,-22.7341 5.53991,-1.5292 m 12.26098,24.2633 -7.20303,-4.1695 m -3.16981,-12.5927 -7.42805,-5.9719 m 12.92966,27.8282 -6.70245,-2.1808 m 0,0 4.37065,-7.0828 m 6.10993,-6.5328 2.71421,-19.9157 m 19.41046,30.584 -22.12467,-10.6683 m 26.60174,18.4605 -4.47707,-7.7922 m -19.0782,10.5197 23.55527,-2.7275 m -16.65973,9.2249 -6.89554,-6.4974 m -1.30455,16.5378 8.20009,-10.0404 m -24.52664,-24.0142 -11.8196,-16.2573 m -2.61756,36.1289 14.43716,-19.8716 m -14.69159,28.8548 0.25443,-8.9832 m 21.78503,0.2337 -22.03946,8.7495 m 19.04176,0.2382 2.9977,-8.9877 m 8.97868,13.9493 -11.97638,-4.9616 m -23.64473,-59.0157 3.47996,-12.1441 m -3.47996,12.1441 12.24421,-3.1092 m -13.30689,12.1447 -3.90678,-4.215 m -5.552,5.3858 9.45878,-1.1708 m -8.00101,-8.2481 4.09423,4.0331 m -14.8821,22.75 0.009,-8.3227 m 9.3211,-9.0415 1.45777,-9.4189 m -2.06594,20.4853 18.60459,-7.6073 m -16.78129,32.102 -1.8233,-24.4947 m -2.68639,32.2681 4.50969,-7.7734 m -12.29499,-35.2897 8.16941,-18.3647 m 8.09716,-13.3063 12.257,-3.0583 m -12.257,3.0583 8.81471,9.0492 m -17.17108,-5.4517 1.69689,-5.4909 m -7.44014,-2.1153 5.74325,7.6062 m 3.14257,-11.0532 -1.44568,5.5623 m -7.44014,-2.1153 8.88582,-3.447 m 20.90033,-7.761 -3.42953,12.1584 m 3.42953,-12.1584 8.77708,9.0858 m -16.07076,-14.5238 5.60367,-1.2759 m -1.88818,-7.5011 -3.71549,8.777 m -1.78612,-30.6333 -4.87123,5.0941 m 0,0 7.20303,4.1695 m 10.59786,18.5646 -5.53987,1.5292 m -1.88818,-7.5011 7.42805,5.9719 m -12.92966,-27.8282 6.70244,2.1808 m 0,0 -4.37064,7.0828 m -6.10994,6.5328 -2.71421,19.9157 m -19.41041,-30.584 22.12462,10.6683 m -9.94197,-27.6854 6.89551,6.4974 m 1.30455,-16.5378 -8.20006,10.0404 m 24.5266,24.0142 11.8196,16.2573 m 2.61757,-36.1289 -14.43717,19.8716 m 14.6916,-28.8548 -0.25443,8.9832 m -21.78499,-0.2337 22.03942,-8.7495 m -19.04176,-0.2381 -2.99766,8.9876 m -8.97872,-13.9493 11.97638,4.9617 m 100.27397,-104.9444 -5.83526,-6.5706 m 41.24557,0.5325 -8.17374,-5.7923 m 0,0 -9.72021,8.8436 m 9.75042,-25.2476 -18.76951,16.9882 m 34.47166,-4.9853 -15.70215,-12.0029 m -27.26678,28.2344 -3.32802,8.1332 m 38.73833,-14.1713 -5.79229,8.1738 m 0,0 -12.10166,-5.1225 m -5.88503,10.7342 -3.74393,10.4604 m 27.19541,-0.605 -23.45148,-9.8554 m 34.28858,-6.673 -10.8371,16.5284 m -41.18354,-1.1308 2.77271,-8.3388 m 20.16156,35.986 0.92937,-9.9748 m 0,0 -12.51881,-3.9962 m 26.74027,-4.1796 -24.09697,-7.7608 m 21.55325,27.3607 2.54372,-19.5999 m 10.58557,21.0211 -13.12929,-1.4212 m 12.28823,10.4479 0.84106,-9.0267 m -48.67067,-30.5177 -8.70756,1.1845 m 31.64183,26.4627 -9.97482,-0.9294 m 0,0 -1.61462,-13.0416 m -12.23857,0.2705 -10.93093,1.9879 m 14.12165,23.2494 -3.19072,-25.2373 m 22.92322,26.3584 -19.7325,-1.1211 m 18.70371,14.2869 1.02879,-13.1658 m 7.99792,14.0069 -9.02671,-0.8411 m 6.75716,10.3285 2.26955,-9.4874 m 6.78395,14.2897 -9.0535,-4.8023 m -45.07343,-60.8468 8.60802,-1.7681 m -21.08405,35.4534 9.10315,-4.1825 m 0,0 -2.79861,-12.8397 m 16.98985,21.0679 -5.32745,-24.749 m -12.91845,32.346 18.2459,-7.597 m -12.91208,19.6779 -5.33382,-12.0809 m -2.90407,15.8659 8.23789,-3.785 m -2.95248,11.9842 -5.28541,-8.1992 m -1.66501,15.7304 6.95042,-7.5312 m 5.0462,-69.3931 -5.37954,-6.9487 m -24.16479,86.7184 17.54771,-2.8454 m -0.47941,-43.239 -4.18249,-9.1031 m 0,0 10.48703,-7.9191 m -6.35358,-10.4637 -7.18699,-8.4725 m -13.07376,23.8544 20.26075,-15.3819 m -11.36535,33.0312 -8.8954,-17.6493 m -3.02096,23.3413 11.91636,-5.692 m -8.13139,13.9299 -3.78497,-8.2379 m -5.56615,11.0161 9.35112,-2.7782 m -8.98328,13.0199 -0.36784,-10.2417 m 11.8286,23.831 -11.46076,-13.5893 m 29.79029,-79.6998 5.83526,6.5707 m -41.24556,-0.5326 8.17374,5.7923 m 0,0 9.7202,-8.8435 m -9.75042,25.2475 18.76952,-16.9881 m -34.47171,4.9852 15.70219,12.0029 m -23.49765,-1.3432 7.79546,-10.6597 m -15.19229,5.418 7.39683,5.2417 m -11.85481,3.4352 4.45798,-8.6769 m -14.45544,6.4233 9.99746,2.2536 m 62.61924,-30.3264 3.32798,-8.1331 m -87.18274,22.4318 11.23806,13.7741 m 37.2064,-22.0347 5.79228,-8.1737 m 0,0 12.10166,5.1225 m 5.88503,-10.7342 3.74394,-10.4604 m -27.19545,0.605 23.45151,9.8554 m -34.28857,6.6729 10.83706,-16.5283 m -21.72467,9.0544 10.88761,7.4739 m -16.12935,-0.077 5.24174,-7.3968 m -12.32332,0.6877 7.08158,6.7091 m -15.76719,-1.2697 8.68561,-5.4394 m -14.72393,22.1593 6.03832,-16.7199 m 83.91718,-14.0508 -2.77276,8.3389 m -20.16152,-35.9861 -0.9294,9.9748 m 0,0 12.51881,3.9962 m -26.74023,4.1797 24.09697,7.7608 m -21.55325,-27.3607 -2.54372,19.5999 m -10.58558,-21.0212 13.1293,1.4213 m -12.28827,-10.448 -0.84103,9.0267 m -8.90236,-8.5489 9.74339,-0.4778 m -12.79039,-9.3071 3.047,9.7849 m 57.57304,39.0666 8.70756,-1.1845 m -63.01796,-64.2865 -6.30964,16.6195 m 37.68576,21.2043 9.97479,0.9295 m 0,0 1.61462,13.0415 m 9.04785,-25.5078 3.17542,25.116 m -22.90789,-26.237 19.73247,1.121 m -18.70367,-14.2869 -1.0288,13.1659 m -7.99791,-14.007 9.02671,0.8411 m -6.75717,-10.3285 -2.26954,9.4874 m -6.78395,-14.2896 9.05349,4.8022 m -26.55254,-1.6716 17.49905,-3.1306 m 54.12692,65.649 -8.60801,1.7681 m 21.08401,-35.4533 -9.10311,4.1825 m 0,0 2.7986,12.8397 m -11.63666,3.8006 -10.972,1.747 m 5.61881,-26.6155 5.35319,24.8685 m 12.89272,-32.4655 -18.24591,7.597 m 12.91208,-19.678 5.33383,12.081 m 2.90406,-15.866 -8.23789,3.785 m 2.95249,-11.9841 5.2854,8.1991 m 1.66502,-15.7304 -6.95042,7.5313 m -5.04621,69.393 5.37954,6.9488 m 7.09646,-40.634 4.18253,9.1031 m 0,0 -10.48704,7.9191 m 6.35358,10.4636 7.187,8.4726 m 13.07372,-23.8544 -20.26072,15.3818 m 11.36535,-33.0312 8.89537,17.6494 m 3.021,-23.3414 -11.91637,5.692 m 8.1314,-13.9299 3.78497,8.2379 m 5.56615,-11.0161 -9.35112,2.7782 m 8.98327,-13.0199 0.36785,10.2417"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path7830"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -198.24883,1551.3999 h 28.45185 m 5.72219,0 h 3.31963 m 10.37899,0 h 3.3196 m 5.72222,0 h 1.56721 m -28.87901,-2.1099 4.57136,2.1099 m 22.74044,0 -1.15083,-2.1099 m 0,0 -4.57139,2.1099 m -22.74041,0 1.15083,-2.1099 m -25.5979,-1.5475 -4.00478,3.6574 m 4.00478,-3.6574 13.25264,3.0784 m 13.55537,-375.3603 h 27.6689 m -37.91384,0 -8.07334,1.9317 m -133.30693,-1.9317 h 141.38027 m 10.24494,0 10.69018,12.6756 m 16.97872,81.3571 v 54.112 m 0,-148.1447 v 70.9476 m 0,103.6286 v 126.9341 m 0,-126.9341 -16.0584,2.8729 m 16.0584,-106.5015 -3.80004,5.1963 m 3.80004,17.8888 -0.8491,-0.5829 m 0.8491,54.6949 -5.0401,0.2471 m 5.0401,155.6544 v 21.0151 m -179.29411,50.878 h 117.63476 m 61.65935,-18.1419 v 18.1419 m -23.06118,-6.9167 2.07316,6.9167 m 12.56936,-83.4327 8.41866,9.0037 m 0,2.5359 -2.71804,4.9831 m 2.71804,16.032 -5.93635,-0.7137 m 5.93635,33.4498 -5.93635,0.7138 m -2.59952,10.5114 -2.07316,6.9167 m -51.05032,0 -1.23128,-2.6738 m 55.44832,-31.8361 a 8.3562162,8.3562162 0 1 0 -16.71243,0 8.3562162,8.3562162 0 1 0 16.71243,0 z m -3.74799,24.0906 5.25395,-7.0088 m -2.59952,10.5114 -2.65443,-3.5026 m -9.21645,0 -5.25395,-7.0088 m 2.59952,10.5114 2.65443,-3.5026 m -42.48388,7.7455 -6.36954,-0.97 m 34.90266,-14.83 8.69681,1.0457 m -10.40294,3.0044 -8.83296,2.0905 m 8.83296,-2.0905 1.70613,-4.0501 m -2.96002,11.4919 -7.57907,-5.3513 m 3.67233,11.7542 3.90674,-6.4029 m -29.59797,-2.6631 -2.34467,6.0012 m 30.29447,-22.8117 3.44283,-8.0544 m -26.33394,18.0702 -7.39285,3.4948 m 25.92336,-14.058 -6.22683,6.6043 m 6.22683,-6.6043 4.3606,0.5474 m -11.43232,-3.1824 0.84489,9.2393 m -12.30368,3.9589 3.96037,-13.0163 m -11.35322,16.5111 2.33416,3.2999 m 9.01906,-19.811 7.49842,-0.1819 m -16.51748,-29.7369 -2.34467,-6.0012 m 30.29447,22.8116 3.44283,8.0545 m -26.33394,-18.0702 -7.39285,-3.4948 m 25.92336,14.058 -6.22683,-6.6044 m 6.22683,6.6044 4.3606,-0.5475 m -11.43232,3.1825 0.84489,-9.2394 m -12.30368,-3.9588 3.96037,13.0163 m -11.35322,-16.5111 2.33416,-3.2999 m 9.01906,19.811 7.49842,0.1819 m -12.49261,-26.9642 -6.36954,0.9701 m 34.90266,14.83 8.69681,-1.0457 m -28.81621,-13.7708 -6.72305,-4.655 m 25.13632,15.4213 -8.83296,-2.0904 m 8.83296,2.0904 1.70613,4.0502 m -2.96002,-11.492 -7.57907,5.3514 m -9.58031,-8.6759 13.25264,-3.0783 m -19.97569,-1.5767 -1.69067,3.6714 m 21.66636,-2.0947 3.90674,6.4028 m 17.49414,-29.173 4.02487,-5.0311 m -4.60823,37.6416 -5.25395,7.0088 m 2.48228,-31.841 -0.66984,-8.1498 m 0.78708,29.4794 2.60613,-8.6949 m -2.60613,8.6949 2.65443,3.5026 m -8.47226,-8.3095 8.42396,-3.888 m -2.72337,-12.6347 -9.29227,9.938 m 8.62243,-18.0878 4.02487,0.3715 m -12.6473,17.7163 3.59168,6.5847 m 17.10536,-24.301 -4.02487,-5.0311 m 4.60822,37.6416 5.25395,7.0088 m -2.59952,-10.5114 -2.60612,-8.6949 m 2.72333,-12.6347 0.66988,-8.1498 m -0.78709,29.4794 -2.65443,3.5026 m 8.47226,-8.3095 -8.42395,-3.888 m 3.39321,-20.7845 -4.02487,0.3715 m -167.52046,41.1672 v 50.0438 m 0,-375.9393 v 211.0925 m 0,40.9422 19.30249,-2.0351 m -19.30249,-30.5319 v 32.567 m 0,18.2562 V 1472.4 m 0,16.2596 4.67129,1.1403 m -4.67129,-8.4598 v 7.3195 m 0,-7.3195 4.68061,0.1371 m -4.68061,19.8789 10.7068,14.4141 m -10.7068,-43.3702 2.9215,0.3071 m 16.0487,-88.3506 -18.9702,2.1966 m 0,59.1984 11.09091,8.5909 m 44.80498,-22.5463 -3.47996,12.144 m 3.47996,-12.144 -12.24421,3.1091 m 13.3069,-12.1447 3.90677,4.215 m 5.55201,-5.3857 -9.45878,1.1707 m 25.63608,-16.8635 -6.84724,-1.6715 m -10.78784,26.7831 -4.09423,-4.0331 m 14.88207,-22.75 -0.009,8.3227 m -9.32106,9.0416 -1.45778,9.4188 m 17.63508,-25.1116 1.4626,6.8949 m 0,0 -8.31916,-0.2437 m -8.71258,-2.0249 -18.60463,7.6073 m 16.7813,-32.102 1.82333,24.4947 m 2.68639,-32.268 -4.50972,7.7733 m 18.64945,11.2624 -14.13973,-19.0357 m 16.31885,9.8153 -2.17912,9.2204 m 14.97442,-7.1391 -12.7953,-2.0813 m -8.53355,33.2477 -8.16941,18.3648 m 32.59728,-15.7976 -24.42787,-2.5672 m 32.33478,-1.704 -7.90691,4.2712 m -10.6901,-18.9832 18.59701,14.712 m -9.31464,-16.6098 -9.28237,1.8978 m 7.59108,-14.7504 1.69129,12.8526 m -39.28671,49.9848 -12.25704,3.0583 m 12.25704,-3.0583 -8.81471,-9.0492 m 17.17105,5.4518 -1.69686,5.4908 m 7.44014,2.1153 -5.74328,-7.6061 m 27.4222,13.7697 -1.97597,-6.7656 m -28.58877,4.049 1.44568,-5.5623 m 27.14309,1.5133 -7.21235,4.1532 m -12.4906,-3.5512 -8.88582,3.447 m 30.56474,2.7166 -5.23981,4.7141 m 0,0 -3.94851,-7.3265 m -2.60265,-8.5577 -15.89041,-12.3084 m 36.19171,-1.518 -20.3013,13.8264 m 29.28809,-13.8075 -8.98679,-0.019 m -0.42871,21.7822 9.4155,-21.7632 m -0.34087,19.0402 -9.07463,2.723 m 13.66983,9.3986 -4.5952,-12.1216 m -33.06019,9.2335 -19.98902,2.1075 m 29.97972,20.3313 -9.9907,-22.4388 m 17.64319,27.1507 -7.65249,-4.7119 m 11.09493,-18.7495 -3.44244,23.4614 m 9.72715,-16.3715 -6.28471,-7.0899 m 16.56976,-0.8012 -10.28505,7.8911 m -62.93147,-9.0309 -8.77708,-9.0858 m 8.77708,9.0858 3.42949,-12.1584 m 3.86416,17.5965 -5.60364,1.2758 m 1.88814,7.5011 3.7155,-8.7769 m 1.78616,30.6332 4.87122,-5.0941 m -17.80093,-22.7341 5.53991,-1.5292 m 12.26102,24.2633 -7.20302,-4.1695 m -3.16986,-12.5927 -7.42805,-5.9719 m 12.92971,27.8282 -6.70245,-2.1808 m 0,0 4.37065,-7.0828 m 6.10993,-6.5328 2.71417,-19.9157 m 19.41045,30.584 -22.12462,-10.6683 m 26.60173,18.4605 -4.47711,-7.7922 m -19.07816,10.5197 23.55527,-2.7275 m -16.65976,9.2249 -6.89551,-6.4974 m -1.30459,16.5378 8.2001,-10.0404 m -24.52664,-24.0142 -11.81956,-16.2573 m -2.61761,36.1289 14.43717,-19.8716 m -14.69159,28.8548 0.25442,-8.9832 m 21.78503,0.2337 -22.03945,8.7495 m 19.0418,0.2382 2.99765,-8.9877 m 8.97868,13.9493 -11.97633,-4.9616 m -23.64477,-59.0157 3.47996,-12.1441 m -3.47996,12.1441 12.24421,-3.1092 m -13.3069,12.1447 -3.90677,-4.215 m -5.55201,5.3858 9.45878,-1.1708 m -8.001,-8.2481 4.09423,4.0331 m -14.88207,22.75 0.009,-8.3227 m 9.32106,-9.0415 1.45778,-9.4189 m -2.06594,20.4853 18.60463,-7.6073 m -16.78133,32.102 -1.8233,-24.4947 m -2.68639,32.2681 4.50969,-7.7734 m -12.29499,-35.2897 8.16941,-18.3647 m 8.09716,-13.3063 12.25704,-3.0583 m -12.25704,3.0583 8.81471,9.0492 m -17.17105,-5.4517 1.69686,-5.4909 m -7.44014,-2.1153 5.74328,7.6062 m 3.14254,-11.0532 -1.44568,5.5623 m -7.44014,-2.1153 8.88582,-3.447 m 20.90033,-7.761 -3.42949,12.1584 m 3.42949,-12.1584 8.77708,9.0858 m -16.07073,-14.5238 5.60364,-1.2759 m -1.88814,-7.5011 -3.7155,8.777 m -1.78616,-30.6333 -4.87123,5.0941 m 0,0 7.20303,4.1695 m 10.59787,18.5646 -5.53987,1.5292 m -1.88814,-7.5011 7.42801,5.9719 m -12.92967,-27.8282 6.70245,2.1808 m 0,0 -4.37065,7.0828 m -6.10993,6.5328 -2.71417,19.9157 m -19.41046,-30.584 22.12463,10.6683 m -9.94197,-27.6854 6.89551,6.4974 m 1.30455,-16.5378 -8.20006,10.0404 m 24.5266,24.0142 11.8196,16.2573 m 2.61761,-36.1289 -14.43721,19.8716 m 14.69163,-28.8548 -0.25442,8.9832 m -21.78504,-0.2337 22.03946,-8.7495 m -19.0418,-0.2381 -2.99766,8.9876 m -8.97871,-13.9493 11.97637,4.9617 m 100.27398,-104.9444 -5.83526,-6.5706 m 41.24557,0.5325 -8.17375,-5.7923 m 0,0 -9.7202,8.8436 m 9.75042,-25.2476 -18.76952,16.9882 m 34.47171,-4.9853 -15.70219,-12.0029 m -27.26678,28.2344 -3.32798,8.1332 m 38.73829,-14.1713 -5.79229,8.1738 m 0,0 -12.10166,-5.1225 m -5.88503,10.7342 -3.74389,10.4604 m 27.1954,-0.605 -23.45151,-9.8554 m 34.28858,-6.673 -10.83707,16.5284 m -41.18358,-1.1308 2.77276,-8.3388 m 20.16152,35.986 0.9294,-9.9748 m 0,0 -12.51881,-3.9962 m 26.74024,-4.1796 -24.09693,-7.7608 m 21.55321,27.3607 2.54372,-19.5999 m 10.58557,21.0211 -13.12929,-1.4212 m 12.28826,10.4479 0.84103,-9.0267 m -48.67068,-30.5177 -8.70756,1.1845 m 31.64184,26.4627 -9.97478,-0.9294 m 0,0 -1.61463,-13.0416 m -12.2386,0.2705 -10.93093,1.9879 m 14.12168,23.2494 -3.19075,-25.2373 m 22.92322,26.3584 -19.73247,-1.1211 m 18.70368,14.2869 1.02879,-13.1658 m 7.99792,14.0069 -9.02671,-0.8411 m 6.75716,10.3285 2.26955,-9.4874 m 6.78394,14.2897 -9.05349,-4.8023 m -45.07343,-60.8468 8.60801,-1.7681 m -21.084,35.4534 9.10311,-4.1825 m 0,0 -2.79861,-12.8397 m 16.98985,21.0679 -5.32745,-24.749 m -12.91846,32.346 18.24591,-7.597 m -12.91208,19.6779 -5.33383,-12.0809 m -2.90406,15.8659 8.23789,-3.785 m -2.95249,11.9842 -5.2854,-8.1992 m -1.66502,15.7304 6.95042,-7.5312 m 5.04621,-69.3931 -5.37954,-6.9487 m -24.16479,86.7184 17.5477,-2.8454 m -0.47936,-43.239 -4.18254,-9.1031 m 0,0 10.48704,-7.9191 m -6.35358,-10.4637 -7.18699,-8.4725 m -13.07373,23.8544 20.26072,-15.3819 m -11.36535,33.0312 -8.89537,-17.6493 m -3.021,23.3413 11.91637,-5.692 m -8.13139,13.9299 -3.78498,-8.2379 m -5.56614,11.0161 9.35112,-2.7782 m -8.98328,13.0199 -0.36784,-10.2417 m 11.8286,23.831 -11.46076,-13.5893 m 29.79029,-79.6998 5.83526,6.5707 m -41.24553,-0.5326 8.17371,5.7923 m 0,0 9.7202,-8.8435 m -9.75042,25.2475 18.76952,-16.9881 m -34.47167,4.9852 15.70215,12.0029 m -23.49765,-1.3432 7.7955,-10.6597 m -15.19233,5.418 7.39683,5.2417 m -11.85481,3.4352 4.45798,-8.6769 m -14.45541,6.4233 9.99743,2.2536 m 62.61924,-30.3264 3.32802,-8.1331 m -87.18275,22.4318 11.23806,13.7741 m 37.2064,-22.0347 5.79225,-8.1737 m 0,0 12.10166,5.1225 m 5.88503,-10.7342 3.74393,-10.4604 m -27.19541,0.605 23.45148,9.8554 m -34.28858,6.6729 10.8371,-16.5283 m -21.7247,9.0544 10.8876,7.4739 m -16.12931,-0.077 5.24171,-7.3968 m -12.32328,0.6877 7.08157,6.7091 m -15.76722,-1.2697 8.68565,-5.4394 m -14.72394,22.1593 6.03829,-16.7199 m 83.91718,-14.0508 -2.77272,8.3389 m -20.16156,-35.9861 -0.92936,9.9748 m 0,0 12.5188,3.9962 m -26.74027,4.1797 24.09697,7.7608 m -21.55325,-27.3607 -2.54372,19.5999 m -10.58557,-21.0212 13.12929,1.4213 m -12.28822,-10.448 -0.84107,9.0267 m -8.90232,-8.5489 9.74339,-0.4778 m -12.79043,-9.3071 3.04704,9.7849 m 57.573,39.0666 8.70756,-1.1845 m -63.01796,-64.2865 -6.30964,16.6195 m 37.68576,21.2043 9.97482,0.9295 m 0,0 1.61462,13.0415 m 9.04785,-25.5078 3.17538,25.116 m -22.90788,-26.237 19.7325,1.121 m -18.70371,-14.2869 -1.02879,13.1659 m -7.99788,-14.007 9.02667,0.8411 m -6.75716,-10.3285 -2.26951,9.4874 m -6.78398,-14.2896 9.05349,4.8022 m -26.55254,-1.6716 17.49905,-3.1306 m 54.12692,65.649 -8.60801,1.7681 m 21.08404,-35.4533 -9.10315,4.1825 m 0,0 2.79861,12.8397 m -11.63666,3.8006 -10.97201,1.747 m 5.61886,-26.6155 5.35315,24.8685 m 12.89272,-32.4655 -18.24587,7.597 m 12.91208,-19.678 5.33379,12.081 m 2.90406,-15.866 -8.23785,3.785 m 2.95245,-11.9841 5.2854,8.1991 m 1.66502,-15.7304 -6.95042,7.5313 m -5.04621,69.393 5.37954,6.9488 m 7.09649,-40.634 4.1825,9.1031 m 0,0 -10.48704,7.9191 m 6.35358,10.4636 7.18699,8.4726 m 13.07376,-23.8544 -20.26075,15.3818 m 11.36535,-33.0312 8.8954,17.6494 m 3.02097,-23.3414 -11.91637,5.692 m 8.13139,-13.9299 3.78498,8.2379 m 5.56614,-11.0161 -9.35112,2.7782 m 8.98328,-13.0199 0.36784,10.2417"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path7850"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 315.42783,1551.3999 h 28.45181 m 5.72222,0 h 3.31964 m 10.37895,0 h 3.31963 m 5.72223,0 h 1.5672 m -28.87904,-2.1099 4.57139,2.1099 m 22.74045,0 -1.15087,-2.1099 m 0,0 -4.57136,2.1099 m -22.74044,0 1.15083,-2.1099 m -25.59791,-1.5475 -4.00473,3.6574 m 4.00473,-3.6574 13.25268,3.0784 m 13.55537,-375.3603 h 27.6689 m -37.91383,0 -8.07335,1.9317 m -133.30692,-1.9317 h 141.38027 m 10.24493,0 10.69018,12.6756 m 16.97872,81.3571 v 54.112 m 0,-148.1447 v 70.9476 m 0,103.6286 v 126.9341 m 0,-126.9341 -16.05839,2.8729 m 16.05839,-106.5015 -3.80008,5.1963 m 3.80008,17.8888 -0.8491,-0.5829 m 0.8491,54.6949 -5.04013,0.2471 m 5.04013,155.6544 v 21.0151 m -179.2941,50.878 h 117.63472 m 61.65938,-18.1419 v 18.1419 m -23.06121,-6.9167 2.0732,6.9167 m 12.56935,-83.4327 8.41866,9.0037 m 0,2.5359 -2.71807,4.9831 m 2.71807,16.032 -5.93638,-0.7137 m 5.93638,33.4498 -5.93638,0.7138 m -2.59948,10.5114 -2.0732,6.9167 m -51.05032,0 -1.23125,-2.6738 m 55.44829,-31.8361 a 8.3562162,8.3562162 0 1 0 -16.71243,0 8.3562162,8.3562162 0 1 0 16.71243,0 z m -3.74799,24.0906 5.25395,-7.0088 m -2.59948,10.5114 -2.65447,-3.5026 m -9.21641,0 -5.25395,-7.0088 m 2.59948,10.5114 2.65447,-3.5026 m -42.48389,7.7455 -6.36953,-0.97 m 34.90265,-14.83 8.69682,1.0457 m -10.40295,3.0044 -8.83299,2.0905 m 8.83299,-2.0905 1.70613,-4.0501 m -2.96006,11.4919 -7.57906,-5.3513 m 3.67236,11.7542 3.9067,-6.4029 m -29.59792,-2.6631 -2.34467,6.0012 m 30.29442,-22.8117 3.44287,-8.0544 m -26.33394,18.0702 -7.39288,3.4948 m 25.92339,-14.058 -6.22686,6.6043 m 6.22686,-6.6043 4.36056,0.5474 m -11.43232,-3.1824 0.8449,9.2393 m -12.30365,3.9589 3.96034,-13.0163 m -11.35322,16.5111 2.3342,3.2999 m 9.01902,-19.811 7.49841,-0.1819 m -16.51743,-29.7369 -2.34467,-6.0012 m 30.29442,22.8116 3.44287,8.0545 m -26.33394,-18.0702 -7.39288,-3.4948 m 25.92339,14.058 -6.22686,-6.6044 m 6.22686,6.6044 4.36056,-0.5475 m -11.43232,3.1825 0.8449,-9.2394 m -12.30365,-3.9588 3.96034,13.0163 m -11.35322,-16.5111 2.3342,-3.2999 m 9.01902,19.811 7.49841,0.1819 m -12.49257,-26.9642 -6.36953,0.9701 m 34.90265,14.83 8.69682,-1.0457 m -28.81626,-13.7708 -6.723,-4.655 m 25.13631,15.4213 -8.83299,-2.0904 m 8.83299,2.0904 1.70613,4.0502 m -2.96006,-11.492 -7.57906,5.3514 m -9.58032,-8.6759 13.25268,-3.0783 m -19.97568,-1.5767 -1.69068,3.6714 m 21.66636,-2.0947 3.9067,6.4028 m 17.49418,-29.173 4.02483,-5.0311 m -4.60818,37.6416 -5.25395,7.0088 m 2.48227,-31.841 -0.66984,-8.1498 m 0.78705,29.4794 2.60616,-8.6949 m -2.60616,8.6949 2.65447,3.5026 m -8.4723,-8.3095 8.42399,-3.888 m -2.72337,-12.6347 -9.2923,9.938 m 8.62246,-18.0878 4.02487,0.3715 m -12.64733,17.7163 3.59168,6.5847 m 17.10535,-24.301 -4.02487,-5.0311 m 4.60823,37.6416 5.25395,7.0088 m -2.59948,-10.5114 -2.60617,-8.6949 m 2.72337,-12.6347 0.66984,-8.1498 m -0.78704,29.4794 -2.65447,3.5026 m 8.47226,-8.3095 -8.42396,-3.888 m 3.39321,-20.7845 -4.02487,0.3715 m -167.52041,41.1672 v 50.0438 m 0,-375.9393 v 211.0925 m 0,40.9422 19.30244,-2.0351 m -19.30244,-30.5319 v 32.567 m 0,18.2562 V 1472.4 m 0,16.2596 4.67125,1.1403 m -4.67125,-8.4598 v 7.3195 m 0,-7.3195 4.6806,0.1371 m -4.6806,19.8789 10.70679,14.4141 m -10.70679,-43.3702 2.92149,0.3071 m 16.0487,-88.3506 -18.97019,2.1966 m 0,59.1984 11.09091,8.5909 m 44.80497,-22.5463 -3.47996,12.144 m 3.47996,-12.144 -12.24425,3.1091 m 13.30694,-12.1447 3.90674,4.215 m 5.552,-5.3857 -9.45874,1.1707 m 25.63604,-16.8635 -6.8472,-1.6715 m -10.78787,26.7831 -4.09423,-4.0331 m 14.8821,-22.75 -0.009,8.3227 m -9.3211,9.0416 -1.45777,9.4188 m 17.63507,-25.1116 1.4626,6.8949 m 0,0 -8.31915,-0.2437 m -8.71259,-2.0249 -18.60459,7.6073 m 16.7813,-32.102 1.82329,24.4947 m 2.68639,-32.268 -4.50968,7.7733 m 18.64945,11.2624 -14.13977,-19.0357 m 16.3189,9.8153 -2.17913,9.2204 m 14.97439,-7.1391 -12.79526,-2.0813 m -8.53359,33.2477 -8.16942,18.3648 m 32.59729,-15.7976 -24.42787,-2.5672 m 32.33478,-1.704 -7.90691,4.2712 m -10.69007,-18.9832 18.59698,14.712 m -9.31464,-16.6098 -9.28234,1.8978 m 7.59105,-14.7504 1.69129,12.8526 m -39.28671,49.9848 -12.257,3.0583 m 12.257,-3.0583 -8.81468,-9.0492 m 17.17105,5.4518 -1.6969,5.4908 m 7.44019,2.1153 -5.74329,-7.6061 m 27.4222,13.7697 -1.97601,-6.7656 m -28.58872,4.049 1.44563,-5.5623 m 27.14309,1.5133 -7.21234,4.1532 m -12.49056,-3.5512 -8.88582,3.447 m 30.56473,2.7166 -5.23984,4.7141 m 0,0 -3.94851,-7.3265 m -2.60265,-8.5577 -15.89042,-12.3084 m 36.19175,-1.518 -20.30133,13.8264 m 29.28812,-13.8075 -8.98679,-0.019 m -0.42871,21.7822 9.4155,-21.7632 m -0.34087,19.0402 -9.07463,2.723 m 13.66983,9.3986 -4.5952,-12.1216 m -33.06019,9.2335 -19.98901,2.1075 m 29.97971,20.3313 -9.9907,-22.4388 m 17.64319,27.1507 -7.65249,-4.7119 m 11.09493,-18.7495 -3.44244,23.4614 m 9.72712,-16.3715 -6.28468,-7.0899 m 16.56976,-0.8012 -10.28508,7.8911 m -62.93148,-9.0309 -8.77704,-9.0858 m 8.77704,9.0858 3.42954,-12.1584 m 3.86415,17.5965 -5.60363,1.2758 m 1.88814,7.5011 3.71549,-8.7769 m 1.78612,30.6332 4.87123,-5.0941 m -17.80089,-22.7341 5.53991,-1.5292 m 12.26098,24.2633 -7.20303,-4.1695 m -3.16981,-12.5927 -7.42805,-5.9719 m 12.92966,27.8282 -6.70245,-2.1808 m 0,0 4.37065,-7.0828 m 6.10993,-6.5328 2.71422,-19.9157 m 19.41041,30.584 -22.12463,-10.6683 m 26.60174,18.4605 -4.47711,-7.7922 m -19.07816,10.5197 23.55527,-2.7275 m -16.65973,9.2249 -6.89554,-6.4974 m -1.30455,16.5378 8.20009,-10.0404 m -24.52664,-24.0142 -11.8196,-16.2573 m -2.61756,36.1289 14.43716,-19.8716 m -14.69159,28.8548 0.25443,-8.9832 m 21.78503,0.2337 -22.03946,8.7495 m 19.04176,0.2382 2.9977,-8.9877 m 8.97868,13.9493 -11.97638,-4.9616 m -23.64477,-59.0157 3.47997,-12.1441 m -3.47997,12.1441 12.24425,-3.1092 m -13.30689,12.1447 -3.90678,-4.215 m -5.552,5.3858 9.45878,-1.1708 m -8.00101,-8.2481 4.09423,4.0331 m -14.8821,22.75 0.009,-8.3227 m 9.3211,-9.0415 1.45777,-9.4189 m -2.06594,20.4853 18.60459,-7.6073 m -16.78129,32.102 -1.8233,-24.4947 m -2.68639,32.2681 4.50969,-7.7734 m -12.29499,-35.2897 8.16942,-18.3647 m 8.09715,-13.3063 12.257,-3.0583 m -12.257,3.0583 8.81468,9.0492 m -17.17105,-5.4517 1.69689,-5.4909 m -7.44014,-2.1153 5.74325,7.6062 m 3.14253,-11.0532 -1.44564,5.5623 m -7.44014,-2.1153 8.88578,-3.447 m 20.90037,-7.761 -3.42953,12.1584 m 3.42953,-12.1584 8.77704,9.0858 m -16.07072,-14.5238 5.60367,-1.2759 m -1.88818,-7.5011 -3.71549,8.777 m -1.78612,-30.6333 -4.87123,5.0941 m 0,0 7.20303,4.1695 m 10.59786,18.5646 -5.53987,1.5292 m -1.88818,-7.5011 7.42805,5.9719 m -12.92966,-27.8282 6.70244,2.1808 m 0,0 -4.37064,7.0828 m -6.10994,6.5328 -2.71421,19.9157 m -19.41041,-30.584 22.12462,10.6683 m -9.94201,-27.6854 6.89555,6.4974 m 1.30455,-16.5378 -8.2001,10.0404 m 24.52664,24.0142 11.8196,16.2573 m 2.61757,-36.1289 -14.43717,19.8716 m 14.6916,-28.8548 -0.25443,8.9832 m -21.78499,-0.2337 22.03942,-8.7495 m -19.04176,-0.2381 -2.99766,8.9876 m -8.97872,-13.9493 11.97638,4.9617 m 100.27397,-104.9444 -5.83529,-6.5706 m 41.24556,0.5325 -8.1737,-5.7923 m 0,0 -9.7202,8.8436 m 9.75041,-25.2476 -18.76951,16.9882 m 34.47166,-4.9853 -15.70215,-12.0029 m -27.26678,28.2344 -3.32802,8.1332 m 38.73829,-14.1713 -5.79225,8.1738 m 0,0 -12.10165,-5.1225 m -5.88504,10.7342 -3.74393,10.4604 m 27.19541,-0.605 -23.45148,-9.8554 m 34.28858,-6.673 -10.8371,16.5284 m -41.18354,-1.1308 2.77271,-8.3388 m 20.16156,35.986 0.92937,-9.9748 m 0,0 -12.51881,-3.9962 m 26.74027,-4.1796 -24.09697,-7.7608 m 21.55325,27.3607 2.54372,-19.5999 m 10.58557,21.0211 -13.12929,-1.4212 m 12.28823,10.4479 0.84106,-9.0267 m -48.67067,-30.5177 -8.70756,1.1845 m 31.64183,26.4627 -9.97482,-0.9294 m 0,0 -1.61462,-13.0416 m -12.23857,0.2705 -10.93093,1.9879 m 14.12165,23.2494 -3.19072,-25.2373 m 22.92318,26.3584 -19.73246,-1.1211 m 18.70371,14.2869 1.02875,-13.1658 m 7.99792,14.0069 -9.02667,-0.8411 m 6.75716,10.3285 2.26951,-9.4874 m 6.78399,14.2897 -9.0535,-4.8023 m -45.07343,-60.8468 8.60802,-1.7681 m -21.08405,35.4534 9.10315,-4.1825 m 0,0 -2.79861,-12.8397 m 16.98981,21.0679 -5.32741,-24.749 m -12.91845,32.346 18.24586,-7.597 m -12.91208,19.6779 -5.33378,-12.0809 m -2.90407,15.8659 8.23785,-3.785 m -2.95244,11.9842 -5.28541,-8.1992 m -1.66501,15.7304 6.95042,-7.5312 m 5.0462,-69.3931 -5.37954,-6.9487 m -24.16478,86.7184 17.5477,-2.8454 m -0.47941,-43.239 -4.18249,-9.1031 m 0,0 10.48703,-7.9191 m -6.35358,-10.4637 -7.18699,-8.4725 m -13.07376,23.8544 20.26075,-15.3819 m -11.36535,33.0312 -8.8954,-17.6493 m -3.021,23.3413 11.9164,-5.692 m -8.13143,13.9299 -3.78497,-8.2379 m -5.56611,11.0161 9.35108,-2.7782 m -8.98324,13.0199 -0.36784,-10.2417 m 11.82861,23.831 -11.46077,-13.5893 m 29.79029,-79.6998 5.83526,6.5707 m -41.24556,-0.5326 8.17374,5.7923 m 0,0 9.7202,-8.8435 m -9.75042,25.2475 18.76952,-16.9881 m -34.4717,4.9852 15.70218,12.0029 m -23.49765,-1.3432 7.79547,-10.6597 m -15.1923,5.418 7.39683,5.2417 m -11.85481,3.4352 4.45798,-8.6769 m -14.45544,6.4233 9.99746,2.2536 m 62.61924,-30.3264 3.32798,-8.1331 m -87.18274,22.4318 11.23806,13.7741 m 37.2064,-22.0347 5.79228,-8.1737 m 0,0 12.10166,5.1225 m 5.88503,-10.7342 3.7439,-10.4604 m -27.19541,0.605 23.45151,9.8554 m -34.28857,6.6729 10.83706,-16.5283 m -21.72467,9.0544 10.88761,7.4739 m -16.12935,-0.077 5.24174,-7.3968 m -12.32332,0.6877 7.08158,6.7091 m -15.76722,-1.2697 8.68564,-5.4394 m -14.72393,22.1593 6.03829,-16.7199 m 83.91721,-14.0508 -2.77276,8.3389 m -20.16152,-35.9861 -0.9294,9.9748 m 0,0 12.51881,3.9962 m -26.74023,4.1797 24.09693,7.7608 m -21.55321,-27.3607 -2.54372,19.5999 m -10.58561,-21.0212 13.12933,1.4213 m -12.28827,-10.448 -0.84106,9.0267 m -8.90232,-8.5489 9.74338,-0.4778 m -12.79039,-9.3071 3.04701,9.7849 m 57.57303,39.0666 8.70756,-1.1845 m -63.01796,-64.2865 -6.30964,16.6195 m 37.68576,21.2043 9.97479,0.9295 m 0,0 1.61462,13.0415 m 9.04785,-25.5078 3.17542,25.116 m -22.90789,-26.237 19.73247,1.121 m -18.70367,-14.2869 -1.0288,13.1659 m -7.99791,-14.007 9.02671,0.8411 m -6.75717,-10.3285 -2.26954,9.4874 m -6.78395,-14.2896 9.05349,4.8022 m -26.55254,-1.6716 17.49905,-3.1306 m 54.12692,65.649 -8.60801,1.7681 m 21.08401,-35.4533 -9.10311,4.1825 m 0,0 2.79861,12.8397 m -11.63667,3.8006 -10.972,1.747 m 5.61881,-26.6155 5.35319,24.8685 m 12.89272,-32.4655 -18.24591,7.597 m 12.91208,-19.678 5.33383,12.081 m 2.90407,-15.866 -8.2379,3.785 m 2.95249,-11.9841 5.28541,8.1991 m 1.66501,-15.7304 -6.95042,7.5313 m -5.04621,69.393 5.37951,6.9488 m 7.09649,-40.634 4.18253,9.1031 m 0,0 -10.48703,7.9191 m 6.35357,10.4636 7.187,8.4726 m 13.07372,-23.8544 -20.26072,15.3818 m 11.36536,-33.0312 8.89536,17.6494 m 3.021,-23.3414 -11.91636,5.692 m 8.13139,-13.9299 3.78497,8.2379 m 5.56615,-11.0161 -9.35112,2.7782 m 8.98327,-13.0199 0.36785,10.2417"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path7870"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 572.26613,1551.3999 h 28.45185 m 5.72219,0 h 3.31963 m 10.37899,0 h 3.3196 m 5.72222,0 h 1.56721 m -28.87901,-2.1099 4.57136,2.1099 m 22.74044,0 -1.15083,-2.1099 m 0,0 -4.57139,2.1099 m -22.74041,0 1.15083,-2.1099 m -25.5979,-1.5475 -4.00478,3.6574 m 4.00478,-3.6574 13.25264,3.0784 m 13.55537,-375.3603 h 27.6689 m -37.91383,0 -8.07335,1.9317 m -133.30693,-1.9317 h 141.38028 m 10.24493,0 10.69018,12.6756 m 16.97872,81.3571 v 54.112 m 0,-148.1447 v 70.9476 m 0,103.6286 v 126.9341 m 0,-126.9341 -16.0584,2.8729 m 16.0584,-106.5015 -3.80004,5.1963 m 3.80004,17.8888 -0.8491,-0.5829 m 0.8491,54.6949 -5.0401,0.2471 m 5.0401,155.6544 v 21.0151 m -179.29411,50.878 h 117.63473 m 61.65938,-18.1419 v 18.1419 m -23.06118,-6.9167 2.07316,6.9167 m 12.56936,-83.4327 8.41866,9.0037 m 0,2.5359 -2.71804,4.9831 m 2.71804,16.032 -5.93635,-0.7137 m 5.93635,33.4498 -5.93635,0.7138 m -2.59952,10.5114 -2.07316,6.9167 m -51.05035,0 -1.23125,-2.6738 m 55.44832,-31.8361 a 8.3562162,8.3562162 0 1 0 -16.71243,0 8.3562162,8.3562162 0 1 0 16.71243,0 z m -3.74803,24.0906 5.25399,-7.0088 m -2.59952,10.5114 -2.65447,-3.5026 m -9.21641,0 -5.25395,-7.0088 m 2.59952,10.5114 2.65443,-3.5026 m -42.48388,7.7455 -6.36954,-0.97 m 34.90266,-14.83 8.69681,1.0457 m -10.40294,3.0044 -8.83296,2.0905 m 8.83296,-2.0905 1.70613,-4.0501 m -2.96002,11.4919 -7.57907,-5.3513 m 3.67233,11.7542 3.90674,-6.4029 m -29.59797,-2.6631 -2.34467,6.0012 m 30.29443,-22.8117 3.44287,-8.0544 m -26.33394,18.0702 -7.39288,3.4948 m 25.92339,-14.058 -6.22683,6.6043 m 6.22683,-6.6043 4.36056,0.5474 m -11.43228,-3.1824 0.84489,9.2393 m -12.30368,3.9589 3.96037,-13.0163 m -11.35325,16.5111 2.33419,3.2999 m 9.01906,-19.811 7.49842,-0.1819 m -16.51748,-29.7369 -2.34467,-6.0012 m 30.29443,22.8116 3.44287,8.0545 m -26.33394,-18.0702 -7.39288,-3.4948 m 25.92339,14.058 -6.22683,-6.6044 m 6.22683,6.6044 4.36056,-0.5475 m -11.43228,3.1825 0.84489,-9.2394 m -12.30368,-3.9588 3.96037,13.0163 m -11.35325,-16.5111 2.33419,-3.2999 m 9.01906,19.811 7.49842,0.1819 m -12.49261,-26.9642 -6.36954,0.9701 m 34.90266,14.83 8.69681,-1.0457 m -28.81621,-13.7708 -6.72305,-4.655 m 25.13632,15.4213 -8.83296,-2.0904 m 8.83296,2.0904 1.70613,4.0502 m -2.96002,-11.492 -7.57907,5.3514 m -9.58031,-8.6759 13.25264,-3.0783 m -19.97569,-1.5767 -1.69067,3.6714 m 21.66636,-2.0947 3.90674,6.4028 m 17.49414,-29.173 4.02487,-5.0311 m -4.60823,37.6416 -5.25395,7.0088 m 2.48228,-31.841 -0.66984,-8.1498 m 0.78708,29.4794 2.60613,-8.6949 m -2.60613,8.6949 2.65443,3.5026 m -8.47226,-8.3095 8.42396,-3.888 m -2.72337,-12.6347 -9.29231,9.938 m 8.62247,-18.0878 4.02487,0.3715 m -12.64734,17.7163 3.59172,6.5847 m 17.10536,-24.301 -4.02487,-5.0311 m 4.60818,37.6416 5.25399,7.0088 m -2.59952,-10.5114 -2.60612,-8.6949 m 2.72333,-12.6347 0.66984,-8.1498 m -0.78705,29.4794 -2.65447,3.5026 m 8.4723,-8.3095 -8.42395,-3.888 m 3.39317,-20.7845 -4.02483,0.3715 m -167.52046,41.1672 v 50.0438 m 0,-375.9393 v 211.0925 m 0,40.9422 19.30249,-2.0351 m -19.30249,-30.5319 v 32.567 m 0,18.2562 V 1472.4 m 0,16.2596 4.67129,1.1403 m -4.67129,-8.4598 v 7.3195 m 0,-7.3195 4.68061,0.1371 m -4.68061,19.8789 10.7068,14.4141 m -10.7068,-43.3702 2.9215,0.3071 m 16.0487,-88.3506 -18.9702,2.1966 m 0,59.1984 11.09091,8.5909 m 44.80498,-22.5463 -3.47996,12.144 m 3.47996,-12.144 -12.24421,3.1091 m 13.3069,-12.1447 3.90677,4.215 m 5.55201,-5.3857 -9.45878,1.1707 m 25.63608,-16.8635 -6.84724,-1.6715 m -10.78787,26.7831 -4.0942,-4.0331 m 14.88207,-22.75 -0.009,8.3227 m -9.32106,9.0416 -1.45781,9.4188 m 17.63511,-25.1116 1.4626,6.8949 m 0,0 -8.31916,-0.2437 m -8.71258,-2.0249 -18.60463,7.6073 m 16.7813,-32.102 1.82333,24.4947 m 2.68639,-32.268 -4.50972,7.7733 m 18.64945,11.2624 -14.13973,-19.0357 m 16.31885,9.8153 -2.17912,9.2204 m 14.97438,-7.1391 -12.79526,-2.0813 m -8.53355,33.2477 -8.16941,18.3648 m 32.59728,-15.7976 -24.42787,-2.5672 m 32.33479,-1.704 -7.90692,4.2712 m -10.6901,-18.9832 18.59702,14.712 m -9.31465,-16.6098 -9.28237,1.8978 m 7.59104,-14.7504 1.69133,12.8526 m -39.28671,49.9848 -12.25704,3.0583 m 12.25704,-3.0583 -8.81471,-9.0492 m 17.17105,5.4518 -1.69686,5.4908 m 7.44014,2.1153 -5.74328,-7.6061 m 27.4222,13.7697 -1.97597,-6.7656 m -28.58877,4.049 1.44568,-5.5623 m 27.14309,1.5133 -7.21238,4.1532 m -12.49057,-3.5512 -8.88582,3.447 m 30.56474,2.7166 -5.23981,4.7141 m 0,0 -3.94854,-7.3265 m -2.60265,-8.5577 -15.89038,-12.3084 m 36.19171,-1.518 -20.30133,13.8264 m 29.28812,-13.8075 -8.98679,-0.019 m -0.42871,21.7822 9.4155,-21.7632 m -0.34087,19.0402 -9.07463,2.723 m 13.66983,9.3986 -4.5952,-12.1216 m -33.06019,9.2335 -19.98902,2.1075 m 29.97972,20.3313 -9.9907,-22.4388 m 17.64319,27.1507 -7.65249,-4.7119 m 11.09493,-18.7495 -3.44244,23.4614 m 9.72712,-16.3715 -6.28468,-7.0899 m 16.56976,-0.8012 -10.28508,7.8911 m -62.93148,-9.0309 -8.77704,-9.0858 m 8.77704,9.0858 3.42953,-12.1584 m 3.86416,17.5965 -5.60364,1.2758 m 1.88814,7.5011 3.7155,-8.7769 m 1.78616,30.6332 4.87119,-5.0941 m -17.80089,-22.7341 5.5399,-1.5292 m 12.26099,24.2633 -7.20299,-4.1695 m -3.16986,-12.5927 -7.42804,-5.9719 m 12.9297,27.8282 -6.70245,-2.1808 m 0,0 4.37065,-7.0828 m 6.10993,-6.5328 2.71417,-19.9157 m 19.41046,30.584 -22.12463,-10.6683 m 26.60173,18.4605 -4.4771,-7.7922 m -19.0782,10.5197 23.5553,-2.7275 m -16.65976,9.2249 -6.89554,-6.4974 m -1.30456,16.5378 8.2001,-10.0404 m -24.52664,-24.0142 -11.8196,-16.2573 m -2.61757,36.1289 14.43717,-19.8716 m -14.69159,28.8548 0.25442,-8.9832 m 21.78504,0.2337 -22.03946,8.7495 m 19.0418,0.2382 2.99766,-8.9877 m 8.97867,13.9493 -11.97633,-4.9616 m -23.64477,-59.0157 3.47996,-12.1441 m -3.47996,12.1441 12.24421,-3.1092 m -13.3069,12.1447 -3.90677,-4.215 m -5.55201,5.3858 9.45878,-1.1708 m -8.001,-8.2481 4.09423,4.0331 m -14.88207,22.75 0.009,-8.3227 m 9.32106,-9.0415 1.45778,-9.4189 m -2.06594,20.4853 18.60459,-7.6073 m -16.78129,32.102 -1.8233,-24.4947 m -2.68639,32.2681 4.50969,-7.7734 m -12.29499,-35.2897 8.16941,-18.3647 m 8.09716,-13.3063 12.25704,-3.0583 m -12.25704,3.0583 8.81471,9.0492 m -17.17105,-5.4517 1.69686,-5.4909 m -7.44014,-2.1153 5.74328,7.6062 m 3.14254,-11.0532 -1.44568,5.5623 m -7.44014,-2.1153 8.88582,-3.447 m 20.90033,-7.761 -3.42949,12.1584 m 3.42949,-12.1584 8.77708,9.0858 m -16.07073,-14.5238 5.60364,-1.2759 m -1.88814,-7.5011 -3.7155,8.777 m -1.78616,-30.6333 -4.87123,5.0941 m 0,0 7.20303,4.1695 m 10.59787,18.5646 -5.53987,1.5292 m -1.88814,-7.5011 7.42801,5.9719 m -12.92967,-27.8282 6.70245,2.1808 m 0,0 -4.37065,7.0828 m -6.10993,6.5328 -2.71417,19.9157 m -19.41045,-30.584 22.12462,10.6683 m -9.94197,-27.6854 6.89551,6.4974 m 1.30455,-16.5378 -8.20006,10.0404 m 24.5266,24.0142 11.8196,16.2573 m 2.61761,-36.1289 -14.43721,19.8716 m 14.69159,-28.8548 -0.25438,8.9832 m -21.78503,-0.2337 22.03941,-8.7495 m -19.04176,-0.2381 -2.99765,8.9876 m -8.97872,-13.9493 11.97637,4.9617 m 100.27398,-104.9444 -5.83526,-6.5706 m 41.24557,0.5325 -8.17375,-5.7923 m 0,0 -9.7202,8.8436 m 9.75042,-25.2476 -18.76952,16.9882 m 34.47171,-4.9853 -15.70219,-12.0029 m -27.26678,28.2344 -3.32802,8.1332 m 38.73833,-14.1713 -5.79229,8.1738 m 0,0 -12.10166,-5.1225 m -5.88503,10.7342 -3.74393,10.4604 m 27.19545,-0.605 -23.45152,-9.8554 m 34.28858,-6.673 -10.83706,16.5284 m -41.18359,-1.1308 2.77272,-8.3388 m 20.16156,35.986 0.9294,-9.9748 m 0,0 -12.51881,-3.9962 m 26.74024,-4.1796 -24.09697,-7.7608 m 21.55325,27.3607 2.54372,-19.5999 m 10.58557,21.0211 -13.12929,-1.4212 m 12.28826,10.4479 0.84103,-9.0267 m -48.67068,-30.5177 -8.70756,1.1845 m 31.64184,26.4627 -9.97478,-0.9294 m 0,0 -1.61463,-13.0416 m -12.2386,0.2705 -10.93093,1.9879 m 14.12165,23.2494 -3.19072,-25.2373 m 22.92322,26.3584 -19.7325,-1.1211 m 18.70371,14.2869 1.02879,-13.1658 m 7.99792,14.0069 -9.02671,-0.8411 m 6.75716,10.3285 2.26955,-9.4874 m 6.78394,14.2897 -9.05349,-4.8023 m -45.07343,-60.8468 8.60801,-1.7681 m -21.084,35.4534 9.10311,-4.1825 m 0,0 -2.79861,-12.8397 m 16.98985,21.0679 -5.32745,-24.749 m -12.91846,32.346 18.24591,-7.597 m -12.91208,19.6779 -5.33383,-12.0809 m -2.90406,15.8659 8.23789,-3.785 m -2.95248,11.9842 -5.28541,-8.1992 m -1.66501,15.7304 6.95042,-7.5312 m 5.0462,-69.3931 -5.37954,-6.9487 m -24.16479,86.7184 17.54771,-2.8454 m -0.47937,-43.239 -4.18253,-9.1031 m 0,0 10.48703,-7.9191 m -6.35358,-10.4637 -7.18699,-8.4725 m -13.07373,23.8544 20.26072,-15.3819 m -11.36535,33.0312 -8.89537,-17.6493 m -3.02099,23.3413 11.91636,-5.692 m -8.13139,13.9299 -3.78497,-8.2379 m -5.56615,11.0161 9.35112,-2.7782 m -8.98328,13.0199 -0.36784,-10.2417 m 11.8286,23.831 -11.46076,-13.5893 m 29.79029,-79.6998 5.83526,6.5707 m -41.24557,-0.5326 8.17375,5.7923 m 0,0 9.7202,-8.8435 m -9.75042,25.2475 18.76952,-16.9881 m -34.47167,4.9852 15.70215,12.0029 m -23.49765,-1.3432 7.7955,-10.6597 m -15.19233,5.418 7.39683,5.2417 m -11.85481,3.4352 4.45798,-8.6769 m -14.4554,6.4233 9.99742,2.2536 m 62.61924,-30.3264 3.32802,-8.1331 m -87.18275,22.4318 11.23807,13.7741 m 37.20635,-22.0347 5.79229,-8.1737 m 0,0 12.10166,5.1225 m 5.88503,-10.7342 3.74393,-10.4604 m -27.19541,0.605 23.45148,9.8554 m -34.28858,6.6729 10.8371,-16.5283 m -21.7247,9.0544 10.8876,7.4739 m -16.1293,-0.077 5.2417,-7.3968 m -12.32328,0.6877 7.08158,6.7091 m -15.76723,-1.2697 8.68565,-5.4394 m -14.72394,22.1593 6.03829,-16.7199 m 83.91718,-14.0508 -2.77272,8.3389 m -20.16156,-35.9861 -0.92936,9.9748 m 0,0 12.51881,3.9962 m -26.74028,4.1797 24.09697,7.7608 m -21.55325,-27.3607 -2.54372,19.5999 m -10.58557,-21.0212 13.12929,1.4213 m -12.28822,-10.448 -0.84107,9.0267 m -8.90236,-8.5489 9.74343,-0.4778 m -12.79043,-9.3071 3.047,9.7849 m 57.57304,39.0666 8.70756,-1.1845 m -63.01796,-64.2865 -6.30964,16.6195 m 37.68576,21.2043 9.97482,0.9295 m 0,0 1.61463,13.0415 m 9.04785,-25.5078 3.17537,25.116 m -22.90788,-26.237 19.73251,1.121 m -18.70371,-14.2869 -1.0288,13.1659 m -7.99792,-14.007 9.02672,0.8411 m -6.75717,-10.3285 -2.26955,9.4874 m -6.78394,-14.2896 9.05349,4.8022 m -26.55254,-1.6716 17.49905,-3.1306 m 54.12692,65.649 -8.60801,1.7681 m 21.08404,-35.4533 -9.10315,4.1825 m 0,0 2.79861,12.8397 m -11.63666,3.8006 -10.97201,1.747 m 5.61882,-26.6155 5.35319,24.8685 m 12.89272,-32.4655 -18.24591,7.597 m 12.91208,-19.678 5.33383,12.081 m 2.90406,-15.866 -8.23789,3.785 m 2.95249,-11.9841 5.2854,8.1991 m 1.66502,-15.7304 -6.95042,7.5313 m -5.04621,69.393 5.37954,6.9488 m 7.09649,-40.634 4.1825,9.1031 m 0,0 -10.48704,7.9191 m 6.35358,10.4636 7.18699,8.4726 m 13.07377,-23.8544 -20.26076,15.3818 m 11.36535,-33.0312 8.89541,17.6494 m 3.02096,-23.3414 -11.91637,5.692 m 8.13139,-13.9299 3.78498,8.2379 m 5.56614,-11.0161 -9.35112,2.7782 m 8.98328,-13.0199 0.36784,10.2417"
+         style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path7890"
+         inkscape:connector-curvature="0" />
+    </g>
+    <path
+       id="path7928"
+       style="fill:none;stroke:#f10000;stroke-width:0.37799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -223.75594,507.52685 -44.42778,-32.27867 m 0,0 -9.61494,13.23382 m 54.04272,19.04485 -9.61493,13.23382 m 0,0 -44.42779,-32.27867 m 91.17597,237.78519 16.96991,-52.22801 m 0,0 -15.55727,-5.05486 m -1.41264,57.28287 -15.55728,-5.05486 m 0,0 16.96992,-52.22801 m -197.97228,160.19319 h 54.91578 m 0,0 v -16.3579 m -54.91578,16.3579 v -16.3579 m 0,0 h 54.91578 m -213.52951,-138.78043 16.96991,52.22801 m 0,0 15.55724,-5.05486 m -32.52715,-47.17315 15.55728,-5.05486 m 0,0 16.96987,52.22801 m 66.00376,-245.96415 -44.42779,32.27867 m 0,0 9.61494,13.23382 m 34.81285,-45.51249 9.61493,13.23382 m 0,0 -44.42778,32.27867 m 375.7925,121.69109 a 253.43894,253.43894 0 1 0 -506.87787,0 253.43894,253.43894 0 1 0 506.87787,0 z"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m -97.541615,457.57651 v 41.5748 h -11.338505 v 37.7953 h 11.338505 v 37.7953 h 94.4881498 v -37.7953 h 11.3386 v -37.7953 h -11.3386 v -41.5748 h 11.3386 v -37.7953 h -11.3386 V 381.98598 H -97.541615 v 37.79523 h -11.338505 v 37.7953 z"
+       id="path869"
+       style="fill:none;stroke:#ff0000;stroke-width:0.37795275;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 19.623635,457.57651 v 41.57477 H 8.2851348 v 37.7953 H 19.623635 v 37.7953 h 94.488195 v -37.7953 h 11.3386 v -37.7953 h -11.3386 v -41.57477 h 11.3386 v -37.7953 h -11.3386 v -37.7952 H 19.623635 v 37.7952 H 8.2851348 v 37.7953 z"
+       id="path867"
+       style="fill:none;stroke:#ff0000;stroke-width:0.37795275;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 253.95453,457.57651 v 41.5748 h -11.3386 v 37.7953 h 11.3386 v 37.7953 h 94.4882 v -37.7953 h 11.3386 v -37.7953 h -11.3386 v -41.5748 h 11.3386 v -37.7953 h -11.3386 v -37.7953 h -94.4882 v 37.7953 h -11.3386 v 37.7953 z"
+       id="path843"
+       style="fill:none;stroke:#ff0000;stroke-width:0.37795275;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path875-7"
+       style="fill:none;stroke:#ff0000;stroke-width:0.37795275;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -197.5418,1190.6002 -10.7837,-3.5039 11.6795,-35.9453 10.7837,3.5038 z m -24.5269,75.4854 -10.7833,-3.5036 11.6795,-35.9456 10.7833,3.5036 z m 4.3079,-174.7064 -30.5771,-22.2157 6.6648,-9.1729 30.5768,22.2153 z m -64.2119,-46.6526 -30.5769,-22.2152 6.6647,-9.1733 30.5771,22.2156 z m -1.2011,267.7455 h -37.7952 l 10e-5,-11.3386 h 37.7951 z m -50.5097,-145.5476 -0.046,0.6579 -0.092,0.6532 -0.1371,0.6451 -0.1818,0.6339 -0.2256,0.6198 -0.2682,0.6025 -0.3097,0.5823 -0.3494,0.5593 -0.3877,0.5335 -0.424,0.5053 -0.4581,0.4744 -0.4901,0.4413 -0.5197,0.4061 -0.5468,0.3688 -0.5711,0.3297 -0.5928,0.2891 -0.6115,0.2471 -0.62719,0.2038 -0.6399,0.1595 -0.6495,0.1145 -0.656,0.069 -0.659,0.023 -0.6591,-0.023 -0.656,-0.069 -0.6495,-0.1145 -0.6399,-0.1595 -0.6272,-0.2038 -0.6115,-0.2471 -0.5928,-0.2891 -0.5711,-0.3297 -0.5468,-0.3688 -0.5197,-0.4061 -0.4901,-0.4413 -0.4581,-0.4744 -0.424,-0.5053 -0.3877,-0.5335 -0.3494,-0.5593 -0.3097,-0.5823 -0.2682,-0.6025 -0.2256,-0.6198 -0.1818,-0.6339 -0.1371,-0.6451 -0.092,-0.6532 -0.046,-0.6579 v -0.6594 l 0.046,-0.6579 0.092,-0.6531 0.1371,-0.6451 0.1818,-0.634 0.2256,-0.6197 0.2682,-0.6025 0.3097,-0.5824 0.3494,-0.5593 0.3877,-0.5335 0.424,-0.5053 0.4581,-0.4744 0.4901,-0.4413 0.5197,-0.406 0.5468,-0.3688 0.5711,-0.3298 0.5928,-0.2891 0.6115,-0.2471 0.6272,-0.2038 0.6399,-0.1595 0.6495,-0.1145 0.656,-0.069 0.6591,-0.023 0.659,0.023 0.656,0.069 0.6495,0.1145 0.6399,0.1595 0.62719,0.2038 0.6115,0.2471 0.5928,0.2891 0.5711,0.3298 0.5468,0.3688 0.5197,0.406 0.4901,0.4413 0.4581,0.4744 0.424,0.5053 0.3877,0.5335 0.3494,0.5593 0.3097,0.5824 0.2682,0.6025 0.2256,0.6197 0.1818,0.634 0.1371,0.6451 0.092,0.6531 0.046,0.6579 z m -28.86011,145.5476 h -37.7952 v -11.3386 h 37.7952 z m -43.9543,-266.1347 -6.6644,-9.1729 30.5771,-22.2156 6.66451,9.1733 z m -56.8399,222.3546 -11.6795,-35.9452 10.7837,-3.504 11.6795,35.9455 z m -7.3716,-175.702 -6.6648,-9.1729 30.5771,-22.2157 6.6648,9.1733 z m -17.1549,100.2166 -11.6795,-35.9454 10.7837,-3.5038 11.6792,35.9454 z m 323.25926,-108.1098 -23.39548,-16.9978 m 26.03094,80.1149 8.93624,-27.5031 m 7.03772,32.6933 8.93629,-27.503 m 0,0 -15.97401,-5.1903 m 7.03772,32.6933 -15.97396,-5.1902 m 7.23703,-76.7054 -9.87249,13.5883 m -13.52299,-30.5861 -9.87249,13.5883 m 33.26797,3.4095 -23.39548,-16.9978 m -37.10179,257.6213 8.93629,-27.5031 m -68.1498,49.5138 h 28.91838 m -28.91838,16.796 h 28.91838 m 0,0 v -16.796 m -28.91838,16.796 v -16.796 m 75.18751,-16.8204 -15.974,-5.1903 m 24.91025,-22.3128 -15.97396,-5.1903 m 7.03771,32.6934 8.93625,-27.5031 m -256.47746,44.3235 h 28.91839 m -68.1498,-49.5138 8.93629,27.5031 m -24.91025,-22.3128 8.93628,27.5031 m 0,0 15.97397,-5.1903 m -24.91025,-22.3128 15.97396,-5.1903 m 39.23141,66.3098 v -16.796 m 28.91839,16.796 v -16.796 m -28.91839,16.796 h 28.91839 m -121.41,-230.2279 8.93629,27.5031 m 26.0309,-80.1149 -23.39548,16.9978 m 13.52302,-30.5861 -23.39548,16.9978 m 0,0 9.87246,13.5883 m 13.52302,-30.5861 9.87246,13.5883 m -50.94119,57.8021 15.974,-5.1903 m -7.03771,32.6933 15.974,-5.1902 m -24.91029,-22.3128 8.93629,27.503 m 181.44196,-186.61207 -23.39548,16.9978 m 84.23776,0 -23.39548,-16.9978 m 33.26798,3.4096 -23.39549,-16.9979 m 0,0 -9.87249,13.5883 m 33.26798,3.4096 -9.8725,13.5882 m -70.71473,-30.5861 9.87245,13.5883 m -33.26793,3.4096 9.87245,13.5882 m 13.52303,-30.5861 -23.39548,16.9979 m 305.430269,193.57327 a 253.43894,253.43894 0 1 0 -506.877869,0 253.43894,253.43894 0 1 0 506.877869,0 z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path9125"
+       style="fill:none;stroke:#ff0000;stroke-width:0.37795275;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 482.61823,461.22411 0.019,-0.2631 0.037,-0.2615 0.055,-0.2578 0.073,-0.2536 0.09,-0.2479 0.1073,-0.2412 0.124,-0.2328 0.1398,-0.2237 0.155,-0.2136 0.1697,-0.2018 0.1829,-0.1897 0.1962,-0.1769 0.2078,-0.1622 0.2189,-0.1477 0.2283,-0.1316 0.2373,-0.116 0.2445,-0.099 0.251,-0.082 0.2559,-0.063 0.2596,-0.046 0.2627,-0.028 0.2634,-0.01 0.2639,0.01 0.2623,0.028 0.2596,0.046 0.2563,0.063 0.2505,0.082 0.2446,0.099 0.2373,0.116 0.2283,0.1316 0.2189,0.1477 0.2078,0.1622 0.1962,0.1769 0.1829,0.1897 0.1697,0.2018 0.155,0.2136 0.1398,0.2237 0.124,0.2328 0.1073,0.2412 0.09,0.2479 0.073,0.2536 0.055,0.2578 0.037,0.2615 0.018,0.2631 v 34.2795 l -0.018,0.2631 -0.037,0.2611 -0.055,0.2582 -0.073,0.2536 -0.09,0.2479 -0.1073,0.2412 -0.124,0.2328 -0.1398,0.2237 -0.155,0.2132 -0.1697,0.2022 -0.1829,0.1897 -0.1962,0.1765 -0.2078,0.1626 -0.2189,0.1474 -0.2283,0.1319 -0.2373,0.1156 -0.2446,0.099 -0.2505,0.082 -0.2563,0.063 -0.2596,0.046 -0.2623,0.028 -0.2639,0.01 -0.2634,-0.01 -0.2627,-0.028 -0.2596,-0.046 -0.2559,-0.063 -0.251,-0.082 -0.2445,-0.099 -0.2373,-0.1156 -0.2283,-0.1319 -0.2189,-0.1474 -0.2078,-0.1626 -0.1962,-0.1765 -0.1829,-0.1897 -0.1697,-0.2022 -0.155,-0.2132 -0.1398,-0.2237 -0.124,-0.2328 -0.1073,-0.2412 -0.09,-0.2479 -0.073,-0.2536 -0.055,-0.2582 -0.037,-0.2611 -0.019,-0.2631 z m -111.4983,-3.6477 v 41.5748 h -11.3386 v 37.7953 h 11.3386 v 37.7953 h 105.8267 v -58.5827 h 3.7795 l 18.4506,-14.3112 0.3118,-0.2434 0.294,-0.2649 0.2748,-0.2846 0.2544,-0.3031 0.2328,-0.3202 0.2094,-0.3356 0.1859,-0.3496 0.161,-0.3613 0.1353,-0.3719 0.1089,-0.3802 0.082,-0.387 0.055,-0.392 0.028,-0.3949 v -38.191 l -0.028,-0.3946 -0.055,-0.392 -0.082,-0.387 -0.1089,-0.3802 -0.1353,-0.3719 -0.161,-0.3617 -0.1859,-0.3492 -0.2094,-0.3357 -0.2328,-0.3201 -0.2544,-0.3031 -0.2748,-0.2846 -0.294,-0.2649 -0.3118,-0.2435 -18.4506,-14.3111 h -3.7795 v -58.5827 h -105.8267 v 37.7953 h -11.3386 v 37.7952 z"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path9684"
+       style="fill:none;stroke:#ff0000;stroke-width:0.37795275;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -419.22417,1796.221 3.5039,-10.7838 35.9454,11.6795 -3.5038,10.7837 z m -75.4853,-24.5269 3.5036,-10.7834 35.9456,11.6795 -3.5037,10.7834 z m 174.7064,4.3079 22.2156,-30.5771 9.173,6.6648 -22.2153,30.5767 z m -80.885,6.9177 v -56.6929 h 11.3386 v 56.6929 z m 127.5376,-71.1296 22.2153,-30.5769 9.1733,6.6647 -22.2157,30.577 z m -1.6109,-124.5252 9.1729,-6.6645 22.2157,30.5772 -9.1733,6.6644 z m -266.1346,161.1193 v -192.7555 h 11.3385 v 192.7555 z m 43.7801,-217.9593 35.9452,-11.6795 3.504,10.7838 -35.9456,11.6795 z m 96.4278,44.6208 v -56.693 h 11.3386 v 56.693 z m 79.2741,-51.9924 9.1729,-6.6648 22.2157,30.5772 -9.1733,6.6648 z m -100.2165,-17.1549 35.9453,-11.6795 3.5038,10.7838 -35.9454,11.6791 z m 47.3528,342.076 13.7151,-1.9276 13.5472,-2.8796 13.3134,-3.8173 13.0145,-4.7373 12.6527,-5.633 12.2286,-6.5023 11.7453,-7.3391 11.2048,-8.1407 10.6095,-8.9027 9.9628,-9.6207 9.2674,-10.2928 8.527,-10.9138 7.7447,-11.4818 6.9248,-11.9947 6.0714,-12.4479 5.1886,-12.8413 4.2795,-13.1724 3.3506,-13.4381 2.4053,-13.6397 1.4475,-13.774 0.4834,-13.8414 -0.4834,-13.8414 -1.4475,-13.774 -2.4053,-13.6397 -3.3506,-13.4381 -4.2795,-13.1724 -5.1886,-12.8413 -6.0714,-12.4479 -6.9248,-11.9947 -7.7447,-11.4818 -8.527,-10.9138 -9.2674,-10.2928 -9.9628,-9.6207 -10.6095,-8.9027 -11.2048,-8.1407 -11.7453,-7.3391 -12.2286,-6.5023 -12.6527,-5.633 -13.0145,-4.7373 -13.3134,-3.8173 -13.5472,-2.8796 -13.7151,-1.9276 -13.8162,-0.966 h -13.8497 l -13.8162,0.966 -13.7151,1.9276 -13.5473,2.8796 -13.3133,3.8173 -13.0145,4.7373 -12.6527,5.633 -12.2287,6.5023 -11.7452,7.3391 -11.2048,8.1407 -10.6095,8.9027 -9.9629,9.6207 -9.26736,10.2928 -8.52699,10.9138 -7.74463,11.4818 -6.92485,11.9947 -6.07143,12.4479 -5.18854,12.8413 -4.27956,13.1724 -3.35055,13.4381 -2.40529,13.6397 -1.44756,13.774 -0.4834,13.8414 0.4834,13.8414 1.44756,13.774 2.40529,13.6397 3.35055,13.4381 4.27956,13.1724 5.18854,12.8413 6.07143,12.4479 6.92485,11.9947 7.74463,11.4818 8.52699,10.9138 9.26736,10.2928 9.9629,9.6207 10.6095,8.9027 11.2048,8.1407 11.7452,7.3391 12.2287,6.5023 12.6527,5.633 13.0145,4.7373 13.3133,3.8173 13.5473,2.8796 13.7151,1.9276 13.8162,0.966 h 13.8497 z" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m -87.874002,1573.8514 -5.932,-0.2071 -5.9032,-0.6206 -5.845498,-1.0307 -5.7593,-1.4358 -5.645,-1.8342 -5.5037,-2.2235 -5.3348,-2.6022 -5.1406,-2.9677 -4.9209,-3.3192 -4.6772,-3.6544 -4.411,-3.9715 -4.1231,-4.2698 -3.8155,-4.5471 -3.4889,-4.8023 -3.1457,-5.0336 -2.7866,-5.2407 -2.414,-5.4228 -2.0303,-5.5775 -1.6358,-5.7055 -1.2344,-5.8062 -0.8258,-5.8779 -0.4143,-5.9214 v -5.9353 l 0.4143,-5.9214 0.8258,-5.8776 1.2344,-5.8053 1.6358,-5.7071 2.0303,-5.5786 2.414,-5.4198 2.7866,-5.2422 3.1457,-5.0344 3.4889,-4.8 3.8155,-4.5467 4.1231,-4.2709 4.411,-3.9723 4.6772,-3.6548 4.9209,-3.3184 5.1406,-2.9669 5.3348,-2.6041 5.5037,-2.2224 5.645,-1.8331 5.7593,-1.4362 5.845498,-1.0318 5.9032,-0.6198 5.932,-0.2079 h 11.3386 v -47.2441 h -11.3386 l -9.2276,0.3213 -9.182698,0.9675 -9.0929,1.6025 -8.959,2.2337 -8.7814,2.8536 -8.561,3.4582 -8.2987,4.0479 -7.9963,4.6148 -7.6547,5.1629 -7.276,5.6844 -6.8613,6.1795 -6.4143,6.6406 -5.935,7.0753 -5.427,7.4683 -4.893,7.8312 -4.3347,8.1525 -3.7553,8.4359 -3.1582,8.674 -2.5448,8.8781 -1.92,9.0293 -1.285,9.1464 -0.644,9.2089 v 9.2333 l 0.644,9.2108 1.285,9.1434 1.92,9.0315 2.5448,8.8755 3.1582,8.6763 3.7553,8.4351 4.3347,8.1525 4.893,7.8304 5.427,7.4699 5.935,7.073 6.4143,6.6417 6.8613,6.1784 7.276,5.6844 7.6547,5.1632 7.9963,4.6167 8.2987,4.0475 8.561,3.4591 8.7814,2.8531 8.959,2.2337 9.0929,1.6033 9.182698,0.9649 9.2276,0.3224 h 11.3386 v -47.2441 z"
+       id="path6452"
+       style="fill:none;stroke:#ff0000;stroke-width:0.37795275;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 136.78916,457.57648 v 41.5748 h -11.33858 v 37.79527 h 11.33858 v 37.79528 h 94.48819 v -37.79527 h 11.33858 v -37.79527 h -11.33858 v -41.5748 h 11.33858 v -37.79528 h -11.33858 v -37.79527 h -94.48819 v 37.79527 h -11.33858 v 37.79528 z m 35.91232,20.39168 0.0552,-0.78954 0.11036,-0.78387 0.16441,-0.77405 0.21808,-0.76081 0.27099,-0.74344 0.32164,-0.72302 0.37153,-0.69884 0.41952,-0.67124 0.46526,-0.64026 0.50873,-0.60623 0.54954,-0.5692 0.5881,-0.5295 0.62362,-0.48757 0.65612,-0.44259 0.68561,-0.39534 0.71131,-0.34696 0.73398,-0.29669 0.75251,-0.24453 0.768,-0.19125 0.77933,-0.13757 0.7869,-0.0828 0.79106,-0.0276 0.79105,0.0276 0.7869,0.0828 0.77934,0.13757 0.768,0.19125 0.75288,0.24453 0.73361,0.29669 0.7113,0.34696 0.68561,0.39534 0.65613,0.44259 0.62362,0.48757 0.58809,0.5295 0.54955,0.5692 0.50872,0.60623 0.46526,0.64026 0.41953,0.67124 0.37152,0.69884 0.32202,0.72302 0.27061,0.74344 0.21808,0.76081 0.16441,0.77405 0.11037,0.78387 0.0552,0.78954 v 0.79143 l -0.0552,0.78955 -0.11037,0.78349 -0.16441,0.77443 -0.21808,0.76045 -0.27061,0.74381 -0.32202,0.72302 -0.37152,0.69884 -0.41953,0.67124 -0.46526,0.64025 -0.50872,0.60624 -0.54955,0.5692 -0.58809,0.52951 -0.62362,0.48718 -0.65613,0.44258 -0.68561,0.39572 -0.7113,0.34696 -0.73361,0.29669 -0.75288,0.24454 -0.768,0.19124 -0.77934,0.13758 -0.7869,0.0828 -0.79105,0.0276 -0.79106,-0.0276 -0.7869,-0.0828 -0.77933,-0.13758 -0.768,-0.19124 -0.75251,-0.24454 -0.73398,-0.29669 -0.71131,-0.34696 -0.68561,-0.39572 -0.65612,-0.44258 -0.62362,-0.48718 -0.5881,-0.52951 -0.54954,-0.5692 -0.50873,-0.60624 -0.46526,-0.64025 -0.41952,-0.67124 -0.37153,-0.69884 -0.32164,-0.72302 -0.27099,-0.74381 -0.21808,-0.76045 -0.16441,-0.77443 -0.11036,-0.78349 -0.0552,-0.78955 z"
+       id="path2793"
+       style="fill:none;stroke:#ff0000;stroke-width:0.37795275;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+</svg>
